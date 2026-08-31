@@ -43,6 +43,13 @@ Generated imagery is source material, not automatically a shippable texture. Ver
 2. Keep a sharp structural mask separate from blurred glow so the engine can control bloom and color.
 3. Add flow/noise modulation without destroying the main silhouette. For loops, animate phase-continuous noise or use a deliberate cycle.
 
+### Magic circle, rune, and sigil textures
+
+1. Search `法阵` or `magic circle` without a type filter for ready texture packs. Search the same term with `--type generator` for a procedural starting tool; the catalog can route this to Material Maker. Treat it as a general node-based authoring tool, not a guaranteed one-click magic-circle preset, and verify its current capabilities and license before use.
+2. Build a clean radial master from separate rings, rays, glyphs, and ornaments. Use rotational repetition for structure, then break selected sectors deliberately so the result does not read as mechanical filler.
+3. Preserve the editable vector or procedural graph. Export a straight-alpha transparent PNG for preview and separate linear masks, or pack `R=primary glyph`, `G=secondary ornament`, `B=dissolve/noise`, and `A=overall opacity` when the target shader supports that contract.
+4. Keep bloom and color controllable in the shader. Check padding, premultiplication halos, mip loss on thin lines, and readability at the final on-screen size.
+
 ### Impact, muzzle flash, slash, decal, and splatter
 
 1. Match the surface/view use: camera-facing sprite, mesh ribbon, projected decal, or world-space mark.

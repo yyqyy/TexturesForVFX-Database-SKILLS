@@ -5,7 +5,7 @@ description: Find, evaluate, and plan acquisition or creation of VFX textures, f
 
 # Textures for VFX
 
-Turn a VFX brief into a short, usable asset plan. The bundled catalog is a searchable metadata snapshot of Simon Truempy's public Textures for VFX database; third-party assets are not bundled.
+Turn a VFX brief into a short, usable asset plan. The bundled catalog is a searchable metadata snapshot of Simon Trümpler's public Textures for VFX database; third-party assets are not bundled.
 
 ## Route the request
 

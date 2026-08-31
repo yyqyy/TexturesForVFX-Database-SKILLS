@@ -17,6 +17,10 @@ python scripts/search_catalog.py fire smoke --limit 10
 # Filter by one or more source resource types.
 python scripts/search_catalog.py fire --type texturepack --type generator
 
+# Chinese aliases can route a specific brief to assets or a practical generator.
+python scripts/search_catalog.py 法阵 --limit 6
+python scripts/search_catalog.py 法阵 --type generator --limit 4
+
 # Filter by exact tags or creator names.
 python scripts/search_catalog.py water --tag free --author "1MaFx"
 
@@ -52,7 +56,7 @@ The source contains legacy spellings such as `tut`; preserve them when reporting
 | 火焰 / 爆炸 | `fire`, `flame`, `explosion`, `pyro`, `smoke`, `flipbook` |
 | 烟雾 / 云 / 蒸汽 | `smoke`, `cloud`, `mist`, `steam`, `dust`, `vdb` |
 | 水 / 水花 / 泡沫 | `water`, `liquid`, `splash`, `foam`, `drops`, `caustics` |
-| 闪电 / 能量 / 魔法 | `lightning`, `magic`, `aura`, `nova`, `plasma`, `sparkles` |
+| 闪电 / 能量 / 魔法 / 法阵 / 符文 | `lightning`, `magic`, `aura`, `nova`, `plasma`, `sparkles`, `symbol`, `circle`, `material maker` |
 | 冲击 / 弹孔 / 污渍 | `impact`, `muzzle`, `bullet`, `decal`, `crater`, `splatter` |
 | 遮罩 / 扰动 / 程序噪声 | `noise`, `procedural`, `flow`, `height`, `normal`, `substance designer` |
 | 手绘 / 风格化 | `paint`, `stylized`, `brush`, `photoshop`, `krita` |
