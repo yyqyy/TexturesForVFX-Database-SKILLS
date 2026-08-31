@@ -64,7 +64,7 @@ Skill 默认先搜索本地快照，避免无目的地浏览网页。只有准�
 
 默认安装位置是 `$CODEX_HOME/skills/textures-for-vfx`；没有设置 `CODEX_HOME` 时使用 `~/.codex/skills/textures-for-vfx`。
 
-当前 GitHub 仓库为私有仓库；安装账户需要拥有访问权限，并已在本机配置 GitHub 凭据。
+当前 GitHub 仓库为公开仓库，无需登录 GitHub 即可克隆。
 
 Windows PowerShell：
 
