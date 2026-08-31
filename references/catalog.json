@@ -1,0 +1,5829 @@
+{
+  "schema_version": 1,
+  "source": {
+    "page_url": "https://simonschreibt.notion.site/Textures-for-VFX-Database-2c72eccccfa84a0eae927d778ad746cc",
+    "page_id": "2c72eccc-cfa8-4a0e-ae92-7d778ad746cc",
+    "collection_id": "becd5cbb-261a-44b3-a903-4e6405ba9e0b",
+    "view_id": "e00d6941-fd2f-4b21-a8c7-6b215aa87994",
+    "retrieved_at": "2026-08-31T02:21:24.537354Z",
+    "source_last_edited_at": "2026-08-03T11:01:18.639000Z"
+  },
+  "stats": {
+    "items": 264,
+    "with_url": 263,
+    "free_tagged": 32,
+    "cc0_tagged": 9,
+    "handpicked": 9,
+    "types": {
+      "tutorial": 128,
+      "texturepack": 43,
+      "generator": 31,
+      "brushpack": 27,
+      "forumthread": 20,
+      "footage": 15,
+      "reference": 8,
+      "talk": 6,
+      "vdb": 5,
+      "course": 1,
+      "slide": 1,
+      "tut": 1
+    },
+    "tags": {
+      "procedural": 77,
+      "fire": 63,
+      "paint": 62,
+      "substance designer": 57,
+      "smoke": 46,
+      "flame": 44,
+      "dust": 40,
+      "noise": 39,
+      "photoshop": 33,
+      "stylized": 33,
+      "free": 32,
+      "water": 32,
+      "splash": 28,
+      "abstract": 26,
+      "lightning": 24,
+      "cloud": 23,
+      "photobash": 22,
+      "liquid": 20,
+      "aura": 19,
+      "explosion": 19,
+      "nova": 19,
+      "impact": 18,
+      "magic": 17,
+      "splatter": 15,
+      "sparkles": 14,
+      "blood": 13,
+      "dirt": 13,
+      "cracks": 10,
+      "simulate": 10,
+      "cc0": 9,
+      "flipbook": 9,
+      "handpick": 9,
+      "photo": 9,
+      "drops": 8,
+      "ray": 8,
+      "unreal": 8,
+      "6$": 7,
+      "swirl": 7,
+      "10$": 5,
+      "debris": 5,
+      "foam": 5,
+      "13$": 4,
+      "20$": 4,
+      "3$": 4,
+      "brush": 4,
+      "flow": 4,
+      "houdini": 4,
+      "krita": 4,
+      "muzzle": 4,
+      "poison": 4,
+      "spiderweb": 4,
+      "texture": 4,
+      "blink": 3,
+      "bubble": 3,
+      "slime": 3,
+      "stone": 3,
+      "trail": 3,
+      "waterfall": 3,
+      "12$": 2,
+      "14$": 2,
+      "15$": 2,
+      "16$": 2,
+      "30$": 2,
+      "5$": 2,
+      "8$": 2,
+      "After Effects": 2,
+      "blender": 2,
+      "caustics": 2,
+      "cobweb": 2,
+      "embers": 2,
+      "erosion": 2,
+      "fabric": 2,
+      "Flame Painter": 2,
+      "height": 2,
+      "ice": 2,
+      "lensflare": 2,
+      "light": 2,
+      "Material Maker": 2,
+      "mud": 2,
+      "nature": 2,
+      "plasma": 2,
+      "projectile": 2,
+      "pyro": 2,
+      "shape": 2,
+      "splashes": 2,
+      "traditional": 2,
+      "unity": 2,
+      "video": 2,
+      "web": 2,
+      "1$": 1,
+      "25$": 1,
+      "3D noise": 1,
+      "42$": 1,
+      "70$": 1,
+      "animation": 1,
+      "auroa": 1,
+      "bricks": 1,
+      "bullet": 1,
+      "cloth": 1,
+      "coffee": 1,
+      "color": 1,
+      "concrete": 1,
+      "crater": 1,
+      "creative": 1,
+      "debug": 1,
+      "decal": 1,
+      "drop": 1,
+      "fireworks": 1,
+      "flesh": 1,
+      "food": 1,
+      "forest": 1,
+      "glas": 1,
+      "glass": 1,
+      "greeble": 1,
+      "grunge": 1,
+      "guts": 1,
+      "lava": 1,
+      "Marvelous Designer": 1,
+      "metal": 1,
+      "mist": 1,
+      "nebula": 1,
+      "normal": 1,
+      "orb": 1,
+      "painterly": 1,
+      "paper": 1,
+      "pixel processor": 1,
+      "planet": 1,
+      "principle": 1,
+      "rain": 1,
+      "raindrop": 1,
+      "rectangular": 1,
+      "root": 1,
+      "scifi": 1,
+      "slash": 1,
+      "snow": 1,
+      "soil": 1,
+      "stain": 1,
+      "steam": 1,
+      "stroke": 1,
+      "symbol": 1,
+      "tornado": 1,
+      "value": 1,
+      "VDB": 1,
+      "volume": 1,
+      "wood": 1,
+      "worldmachine": 1,
+      "zBrush": 1
+    }
+  },
+  "items": [
+    {
+      "id": "2bb72d48-cc9d-80aa-ac2d-e19c656409cf",
+      "description": null,
+      "url": null,
+      "authors": [],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-11-30T17:15:26.259000Z"
+    },
+    {
+      "id": "0617ba22-20b6-4af1-957e-a0dd8f88caa9",
+      "description": "100 Metal Imperfection",
+      "url": "https://www.artstation.com/marketplace/p/2dXKj/100-metal-stencil-imperfection-vol-1",
+      "authors": [
+        "Jeetu Sharma"
+      ],
+      "types": [
+        "brushpack",
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "metal",
+        "grunge"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:00:00Z"
+    },
+    {
+      "id": "200b4aac-f31b-4d5c-b540-8b028a382b83",
+      "description": "100 Seamless Noise Textures for VFX",
+      "url": "https://www.artstation.com/marketplace/p/V9Kj/100-seamless-noise-textures-for-vfx",
+      "authors": [
+        "S. Matthew"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "3$",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-24T21:04:00Z"
+    },
+    {
+      "id": "2f38abb0-b571-4b1b-921c-de0d2f6c90c9",
+      "description": "130 Hi-Res Cloud Textures and Brushes for VFX",
+      "url": "https://www.artstation.com/marketplace/p/YX3y/130-hi-res-cloud-textures-and-brushes-for-vfx-and-concept-art-great-for-dust-smoke-fx?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "S. Matthew"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "3$",
+        "cloud",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-24T21:06:00Z"
+    },
+    {
+      "id": "a9ed1551-e965-4b68-bab0-e0632e402b19",
+      "description": "140 Cloud Brushes for Photoshop and Procreate",
+      "url": "https://www.artstation.com/marketplace/p/mJBbq/140-cloud-brushes-for-photoshop-and-procreate?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "mohamad shalibaik"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "13$",
+        "cloud",
+        "smoke",
+        "photoshop"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-27T21:29:00Z"
+    },
+    {
+      "id": "6de9185c-921f-4809-b124-bd3960fae88b",
+      "description": "24 Complete VFX Texture Guide Photoshop",
+      "url": "https://youtu.be/l9b8zWw_Rm4",
+      "authors": [
+        "Udemy"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "photobash",
+        "aura",
+        "nova",
+        "magic"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:03:00Z"
+    },
+    {
+      "id": "20872d48-cc9d-80a3-bc6e-fa859efc7b58",
+      "description": "2D Fx Explosion Animation Pack",
+      "url": "https://ducvu.gumroad.com/l/2d-fx-explosion-pack/EXPLODE50",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "20$",
+        "explosion",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-06-04T10:53:08.927000Z"
+    },
+    {
+      "id": "1c972d48-cc9d-802e-b821-de57fb91911f",
+      "description": "2D SLASH ANIMATION",
+      "url": "https://youtu.be/S6DTjW-Otzw?si=YUbLHfWrxvIQ2uub",
+      "authors": [
+        "Ivan Boyko"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "photoshop",
+        "free"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-04-02T11:11:42.148000Z"
+    },
+    {
+      "id": "5b854caf-bb6a-43a4-8058-73b2186c4811",
+      "description": "30 Flowmaps for Particle FX - 2k Resolution",
+      "url": "https://www.artstation.com/marketplace/p/2w19/30-flowmaps-for-particle-fx-2k-resolution?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "S. Matthew"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "3$",
+        "flow"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-24T21:06:00Z"
+    },
+    {
+      "id": "eeca7bb4-b21a-48d7-a486-491502b67354",
+      "description": "3D Noise Volume Texture Pack",
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/f3866601a30e472cbce311d51974c447?sessionInvalidated=true",
+      "authors": [
+        "Kristóf Lovas"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "6$",
+        "unreal",
+        "3D noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-08-02T19:05:00Z"
+    },
+    {
+      "id": "90be955d-987b-4610-8f56-f05f74db3fda",
+      "description": "40 Lightning brushes for photoshop and procreate",
+      "url": "https://www.artstation.com/marketplace/p/dB1oB/40-lightning-brushes-for-photoshop-and-procreate?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "mohamad shalibaik"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "lightning",
+        "photoshop",
+        "14$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-12-02T10:22:00Z"
+    },
+    {
+      "id": "c3b3864e-3333-453f-ac7a-f44117e4c610",
+      "description": "5 Korean Texture Painting Tutorials",
+      "url": "https://www.youtube.com/playlist?list=PL9B4dSWZX-clGEK7lpY5pZkjXNssGk8w0",
+      "authors": [
+        "이펙트아카데미"
+      ],
+      "types": [
+        "tut",
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "dust",
+        "smoke",
+        "cracks",
+        "aura",
+        "cloud"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:02:00Z"
+    },
+    {
+      "id": "d37b6ced-780e-40b6-9dbb-a13b19fdd2cf",
+      "description": "6-Way Explosion/Smoke Flipbooks by Unity",
+      "url": "https://drive.google.com/drive/folders/1_oh0UkAOW6hISqouCXjYwKQ0lkoj0CIF",
+      "authors": [
+        "OFavrel"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:07.156000Z"
+    },
+    {
+      "id": "52224cbc-4076-4419-b5cb-1c9b0753dd04",
+      "description": "70 Smoke Brushes for VFX and Concept Art",
+      "url": "https://www.artstation.com/marketplace/p/7e58d/70-smoke-brushes-for-vfx-and-concept-art",
+      "authors": [
+        "mohamad shalibaik"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "smoke",
+        "dust",
+        "13$",
+        "photoshop"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-27T21:27:00Z"
+    },
+    {
+      "id": "96496a63-b60a-4622-bc31-e2c781f1a894",
+      "description": "768 FREE Noise Textures",
+      "url": "https://opengameart.org/content/noise-texture-pack",
+      "authors": [
+        "Screaming Brain Studios"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-08-01T07:13:00Z"
+    },
+    {
+      "id": "d0ba324b-d30c-460a-9921-89c872057a15",
+      "description": "80 sprites for particles",
+      "url": "https://opengameart.org/content/particle-pack-80-sprites",
+      "authors": [
+        "Kenney"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "smoke",
+        "nova",
+        "muzzle",
+        "fire",
+        "cloud",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-08-01T07:11:00Z"
+    },
+    {
+      "id": "28e12488-b951-416f-82c8-1a395699578d",
+      "description": "[Krita] Free Brushes for Game Artists",
+      "url": "https://github.com/GDQuest/krita-free-brushes",
+      "authors": [
+        "GDQuest"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "krita"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-12T15:57:00Z"
+    },
+    {
+      "id": "fff2be76-7fdb-4347-b3fc-cd2a2fe00c74",
+      "description": "[PS] 400+ Brushes",
+      "url": "https://realtimevfx.com/t/vfx-for-games-tutorial-03-realistic-fireball-projectiles-3-part-series/6545/15?u=simonschreibt",
+      "authors": [
+        "JangaFx"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "photoshop"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-12T15:56:00Z"
+    },
+    {
+      "id": "18f5f0de-7cb1-445a-979c-f3a7153e80ef",
+      "description": "[PS] Brush Pack included in Photoshop subscription",
+      "url": "https://www.adobe.com/de/products/photoshop/brushes.html",
+      "authors": [
+        "Adobe"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "brush",
+        "free",
+        "photoshop"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-14T21:04:00Z"
+    },
+    {
+      "id": "6099df3b-51a7-4795-bfa3-808ff186dd51",
+      "description": "All In 1 Vfx Textures",
+      "url": "https://assetstore.unity.com/packages/vfx/all-in-1-vfx-textures-212495",
+      "authors": [
+        "Seaside Studios"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "13$",
+        "smoke",
+        "dust",
+        "auroa",
+        "nova",
+        "lensflare"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-12-05T13:02:33.596000Z"
+    },
+    {
+      "id": "754fedda-44fe-4b77-8621-8445160a091b",
+      "description": "Alpha Textures",
+      "url": "https://youtu.be/fqL3avp6iVQ",
+      "authors": [
+        "QiAn Sun"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "nova",
+        "aura"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:07:00Z"
+    },
+    {
+      "id": "0402dc97-4190-424f-b29f-27f3d9593e4c",
+      "description": "Anime Explosion",
+      "url": "https://youtu.be/xPcckGP5yso",
+      "authors": [
+        "DokiDoki Drawing"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "explosion",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:08:00Z"
+    },
+    {
+      "id": "6ef5aa00-a35e-477f-9377-5b313f3bbfdf",
+      "description": "Anime/Ghibli inspired cloud brushes for Photoshop",
+      "url": "https://www.artstation.com/marketplace/p/O07y/anime-ghibli-inspired-cloud-brushes-for-photoshop?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Kristof Dedene"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "cloud",
+        "stylized",
+        "3$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-05-26T13:51:00Z"
+    },
+    {
+      "id": "702ea162-4acd-405b-a688-dc4e8981a67d",
+      "description": "Appeal of fire VFX",
+      "url": "https://www.artstation.com/artwork/xYAWq2",
+      "authors": [
+        "slav0chka"
+      ],
+      "types": [
+        "reference"
+      ],
+      "tags": [
+        "procedural",
+        "nova",
+        "aura",
+        "magic",
+        "fire"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:08:00Z"
+    },
+    {
+      "id": "38f80571-00d3-4dcf-9a04-f1adef44fed9",
+      "description": "Are rectangular textures OK?",
+      "url": "https://realtimevfx.com/t/are-there-disadvantages-of-using-thin-rectangular-textures/2683?u=simonschreibt",
+      "authors": [
+        "Travis"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "paint",
+        "photobash",
+        "simulate",
+        "procedural",
+        "rectangular"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:08:00Z"
+    },
+    {
+      "id": "8febd374-e76e-48ce-8015-0b90b972753c",
+      "description": "BiteyCastle 2D VFX Course",
+      "url": "https://chluaid.gumroad.com/l/bcafx",
+      "authors": [
+        "BiteyCastle"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "free",
+        "fire",
+        "lightning",
+        "water",
+        "drops",
+        "dust",
+        "dirt",
+        "cloth",
+        "steam",
+        "magic"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-05-31T13:38:00Z"
+    },
+    {
+      "id": "98dba45b-4028-4db0-a062-c944a95c453e",
+      "description": "Blender Noise",
+      "url": "https://twitter.com/letsmakefx/status/1471220011515613184",
+      "authors": [
+        "LetsMakeVFX"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:10:00Z"
+    },
+    {
+      "id": "b58b39b5-37b3-47c5-94b6-3dbe138f4bb6",
+      "description": "Blizzard Brush Set",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "8$",
+        "sparkles",
+        "snow",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:54:10.244000Z"
+    },
+    {
+      "id": "6dd56110-cde7-4d60-b6ae-3c440277e5af",
+      "description": "Blood",
+      "url": "https://80.lv/articles/useful-little-tools-for-substance-designer/",
+      "authors": [
+        "Bruno Afonseca"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "substance designer",
+        "blood",
+        "splash",
+        "splatter",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:11:00Z"
+    },
+    {
+      "id": "e0c6bb15-cba6-4463-b015-1099a92ac1e9",
+      "description": "Blood",
+      "url": "https://youtu.be/Lf42tyyfRxI",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photobash",
+        "blood",
+        "liquid",
+        "splash",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:12:00Z"
+    },
+    {
+      "id": "963b4a70-1a00-4cda-ad35-1610850dd6ee",
+      "description": "Blood",
+      "url": "https://youtu.be/J3pVQrElBcE",
+      "authors": [
+        "JangaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "liquid",
+        "splash",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:13:00Z"
+    },
+    {
+      "id": "38d1891b-1796-4166-8c48-6f90db7901b1",
+      "description": "Blood 'n Guts Shader",
+      "url": "https://youtu.be/aIT76LqSjPY",
+      "authors": [
+        "Galaxy Grudge"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "blood",
+        "flesh",
+        "guts"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-05-22T20:07:57.045000Z"
+    },
+    {
+      "id": "b3d47214-5094-4c6b-987e-fbb7bb69dafd",
+      "description": "Blood in Assassins Creed 3",
+      "url": "https://80.lv/articles/001agt-behind-the-scenes-blood-in-assassins-creed/",
+      "authors": [
+        "Francisco Garcia-Obledo"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "simulate",
+        "procedural",
+        "blood",
+        "splash",
+        "liquid",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:13:00Z"
+    },
+    {
+      "id": "19d72d48-cc9d-803d-a489-c4d1f4b58297",
+      "description": "Blood Splatter",
+      "url": "https://www.linkedin.com/posts/vladislav-nekhviadovich_vfx-substancedesigner-texture-activity-7297169130858639360-LV3p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABC2_QBKkETAF97DlBWRVSDyhrWQQM6Ej4",
+      "authors": [
+        "Uladzislau Nekhviadovich"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "blood",
+        "liquid",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-17T10:59:00.796000Z"
+    },
+    {
+      "id": "e027c794-d946-4ddc-aa46-ee4c9c902cc1",
+      "description": "broken glass substance designer",
+      "url": "https://www.artstation.com/artwork/oALOez",
+      "authors": [
+        "guang"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "glas",
+        "substance designer",
+        "cracks"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:13:00Z"
+    },
+    {
+      "id": "914ff6bb-d93a-40fc-856f-0e5930a0adbb",
+      "description": "Bubble",
+      "url": "http://re-lvup.blog.jp/archives/1042128005.html",
+      "authors": [
+        "yt_refrain"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "bubble",
+        "water"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:13:00Z"
+    },
+    {
+      "id": "65973274-4c88-4469-b125-8978302e7ac9",
+      "description": "Bullet holes sprites",
+      "url": "https://realtimevfx.com/t/share-bullet-holes-sprites/21203/3",
+      "authors": [
+        "mitaywalle"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "impact",
+        "bullet"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-10-04T20:37:00Z"
+    },
+    {
+      "id": "2b572d48-cc9d-80ab-8f9b-f3e95245f380",
+      "description": "CC0 Textures/Photos",
+      "url": "http://www.cc0texture.space/",
+      "authors": [
+        "arrangemonk"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "stone",
+        "water",
+        "noise",
+        "nature",
+        "After Effects",
+        "forest",
+        "wood",
+        "food",
+        "liquid",
+        "coffee",
+        "bricks",
+        "fabric",
+        "cc0"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2025-11-24T08:58:25.239000Z"
+    },
+    {
+      "id": "52f291e6-9a04-40eb-8754-114b234d97b1",
+      "description": "Circle impact texture TUTORIAL Using Substance Designer",
+      "url": "https://youtu.be/0s0Oqol7SPg",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "aura",
+        "impact",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:14:00Z"
+    },
+    {
+      "id": "37bbdeb8-c26b-4cea-8a44-ab19e8663590",
+      "description": "Circle Shape",
+      "url": "https://youtu.be/jHvsXaUuCTE",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "aura",
+        "impact",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:17:00Z"
+    },
+    {
+      "id": "0d68e401-39ea-4732-9a5a-7e0c7fada0f8",
+      "description": "Circular Textures 1/4 in Substance Designer",
+      "url": "https://www.youtube.com/watch?v=E-PAUB2zr9M",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "nova",
+        "swirl"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:18:00Z"
+    },
+    {
+      "id": "882ff0bf-1ddf-4d32-b3dc-bf777ea83f67",
+      "description": "Cloud Bundle",
+      "url": "https://flippednormals.com/product/cloud-bundle-5274",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "20$",
+        "cloud",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:55:05.892000Z"
+    },
+    {
+      "id": "459a0855-245d-489f-bc10-f7c5c364956c",
+      "description": "Cloudscapes V2 - Hyper Realistic Vdb Clouds And Explosions Collection",
+      "url": "https://blendermarket.com/products/cloudscapes",
+      "authors": [
+        "Bproduction"
+      ],
+      "types": [
+        "texturepack",
+        "vdb"
+      ],
+      "tags": [
+        "cloud",
+        "explosion",
+        "fireworks",
+        "fire",
+        "VDB",
+        "42$",
+        "blender"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-06-20T15:00:53.757000Z"
+    },
+    {
+      "id": "5e4835c5-d6ad-46f4-a93c-32edce0238f0",
+      "description": "Cobwebs/Spiderwebs",
+      "url": "https://www.artstation.com/artwork/banX8E",
+      "authors": [
+        "Lea Kronenberger"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "spiderweb",
+        "cobweb",
+        "web"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:19:00Z"
+    },
+    {
+      "id": "7c8553f2-63b3-4f3d-9777-d6a3dfad49ed",
+      "description": "Color (Artistic Principles of VFX #4)",
+      "url": "https://www.youtube.com/watch?v=8iTkIDYupu4",
+      "authors": [
+        "Jason Keyser"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "color",
+        "principle"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:23:00Z"
+    },
+    {
+      "id": "3fb78cce-e0bb-4978-b31d-177ae000c001",
+      "description": "Create stylize fire texture",
+      "url": "https://youtu.be/dI6Xave1Pnc",
+      "authors": [
+        "frontakk"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "fire",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:23:00Z"
+    },
+    {
+      "id": "9db6edaf-0cef-4045-b48a-4fa40617c189",
+      "description": "Creating Real-Time VFX in Unreal Using Substance Designer",
+      "url": "https://realtimevfx.com/t/substance-designer-for-vfx/3939/1",
+      "authors": [
+        "Bruno Afonseca"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "flame",
+        "explosion",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:24:00Z"
+    },
+    {
+      "id": "835066c8-1085-48d8-b288-d13a1d268ce3",
+      "description": "Creating Substance Designer Tools (Pixel Processor / FX Map)",
+      "url": "https://www.artstation.com/learning/series/2Z/creating-substance-designer-tools",
+      "authors": [
+        "Bruno Afonseca"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "planet",
+        "pixel processor"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:26:00Z"
+    },
+    {
+      "id": "876cd5bf-e048-4a90-ae0f-b4d0261142ae",
+      "description": "Creative Commons",
+      "url": "https://search.creativecommons.org/search/image?q=splash&license=cc0",
+      "authors": [
+        "creativecommons"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "photo",
+        "water",
+        "explosion",
+        "lightning",
+        "splash"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:59:00Z"
+    },
+    {
+      "id": "bed7af5d-943c-427b-9c30-c0e534007947",
+      "description": "Cutout Photo Pack: Clouds and Mist 2",
+      "url": "https://www.artstation.com/marketplace/p/O7z2/png-cutout-photo-pack-clouds-and-mist-2?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Nomad Photo Reference"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "16$",
+        "cloud",
+        "dust",
+        "smoke"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:29:00Z"
+    },
+    {
+      "id": "131a0946-9194-4413-9787-5d4966bc89a7",
+      "description": "Designing Custom Brushes in Photoshop",
+      "url": "https://www.artstation.com/learning/courses/QJo/designing-custom-brushes-in-photoshop/chapters/48o/intro",
+      "authors": [
+        "Stéphane Wootha Richard"
+      ],
+      "types": [
+        "brushpack",
+        "tutorial"
+      ],
+      "tags": [
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:30:00Z"
+    },
+    {
+      "id": "3603c25b-cb8a-43fd-bdf0-ae2342a95e3d",
+      "description": "Dirt and Smoke Photoshop Brush Set",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "6$",
+        "smoke",
+        "dust",
+        "cloud",
+        "dirt"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:55:29.366000Z"
+    },
+    {
+      "id": "774dc9aa-7518-48b8-9b1c-aa58d69fb021",
+      "description": "Dirt Debris",
+      "url": "https://realtimevfx.com/t/textures-for-rocket-explosion/12425/9?u=simonschreibt",
+      "authors": [
+        "SlothTom",
+        "Mebiusbox Software"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "photobash",
+        "dirt",
+        "debris",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:31:00Z"
+    },
+    {
+      "id": "ebb19981-50b5-4f60-afa4-2fe5e683dc20",
+      "description": "Dirt Example",
+      "url": "https://www.artstation.com/artwork/N1Lvz",
+      "authors": [
+        "Thomas Francis"
+      ],
+      "types": [
+        "reference"
+      ],
+      "tags": [
+        "photobash",
+        "dirt",
+        "dust",
+        "smoke",
+        "debris"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:32:00Z"
+    },
+    {
+      "id": "c464406b-bd02-4eed-803b-d7d0379920b2",
+      "description": "Dirty Roots",
+      "url": "https://www.brusheezy.com/brushes/1773-dirty-roots",
+      "authors": [
+        "Steve McMahon-Grace"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "root",
+        "photoshop",
+        "brush",
+        "lightning",
+        "nature"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:32:00Z"
+    },
+    {
+      "id": "598e89e6-ebde-44ca-af91-75bcf559fd13",
+      "description": "Dynamic Fire Fx Brush Set",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "10$",
+        "fire",
+        "flame"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:55:46.556000Z"
+    },
+    {
+      "id": "842ca6c0-3013-4ae2-bef2-60ad6af4b7b8",
+      "description": "Effect Texture Maker",
+      "url": "https://mebiusbox.github.io/contents/EffectTextureMaker/",
+      "authors": [
+        "Mebiusbox Software"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "noise",
+        "explosion",
+        "cc0"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2021-11-26T19:29:00Z"
+    },
+    {
+      "id": "d4090c14-1e61-4f87-84ea-8376f2bef54e",
+      "description": "Embergen VDBs",
+      "url": "https://jangafx.com/software/embergen/download/free-vdb-animations/",
+      "authors": [
+        "JangaFx"
+      ],
+      "types": [
+        "vdb"
+      ],
+      "tags": [
+        "free",
+        "smoke",
+        "cc0",
+        "dust",
+        "explosion",
+        "fire"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2021-11-24T21:07:00Z"
+    },
+    {
+      "id": "a8a121c9-d0a8-4948-b73b-1051d9345a6b",
+      "description": "Energy Shield Portal in Unreal Engine & Houdini (Pro Unreal Engine Tutorial)",
+      "url": "https://youtu.be/lzLfGRp-0_w?t=295",
+      "authors": [
+        "Jesse Henning"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-06-22T08:05:00Z"
+    },
+    {
+      "id": "3ad50c16-5282-425f-807d-66b7da0a879d",
+      "description": "Energy Strike Flipbooks",
+      "url": "http://flashfx.blogspot.com/2014/01/10-energy-strikes.html",
+      "authors": [
+        "Alex Redfish"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "lightning",
+        "stylized",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:01.759000Z"
+    },
+    {
+      "id": "1d7fb427-421e-44b8-8aea-c619ab784573",
+      "description": "Erosion Map in Photoshop",
+      "url": "https://www.youtube.com/watch?v=8SQsLAobziI",
+      "authors": [
+        "Pete Clark"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "photoshop",
+        "height",
+        "erosion",
+        "splash",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:34:00Z"
+    },
+    {
+      "id": "db30bc05-e0fe-4a34-ad31-438754aab61b",
+      "description": "Fantasy Magic Circle Texture Pack",
+      "url": "https://ducvu.gumroad.com/l/BWffz",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "magic",
+        "abstract",
+        "stylized",
+        "symbol"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:36:00Z"
+    },
+    {
+      "id": "1b972d48-cc9d-8054-a1cd-dbbd3f763a60",
+      "description": "Fateloom",
+      "url": "https://vfxtexturegenerator.fateloom.io/",
+      "authors": [
+        "Fateloom"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "cloud",
+        "noise",
+        "free"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-03-17T17:39:16.611000Z"
+    },
+    {
+      "id": "f4d329b1-2c20-44ce-9341-63fa44b14845",
+      "description": "Fire and Explosion FX Pack",
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/fire-and-explosion-fx-pack",
+      "authors": [
+        "RealTimeVFX"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "unreal",
+        "explosion",
+        "fire",
+        "smoke",
+        "12$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-25T14:40:00Z"
+    },
+    {
+      "id": "ad544e6e-b0f0-42de-b85a-82117f4a905d",
+      "description": "Fire Flame Flipbook",
+      "url": "https://youtu.be/1cZWY6oW7KQ",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "flame",
+        "fire",
+        "stylized",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:46.761000Z"
+    },
+    {
+      "id": "ad870638-9b38-45f8-95b9-2ba458606279",
+      "description": "Fire FX2D - StepByStep",
+      "url": "https://vimeo.com/461404349",
+      "authors": [
+        "Matthieu Petit"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "animation",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-02-12T15:38:00Z"
+    },
+    {
+      "id": "17372d48-cc9d-808a-b7fd-c3d2389b8b29",
+      "description": "Fire in Substance Designer",
+      "url": "https://www.linkedin.com/posts/d1makolpakov_substancedesigner-stylizedabrfire-fire-ugcPost-7281988576236494848-wrz2?utm_source=share&utm_medium=member_desktop",
+      "authors": [
+        "Dmitrii Kolpakov"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "fire",
+        "flame",
+        "free"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-01-06T15:32:32.916000Z"
+    },
+    {
+      "id": "57334065-18df-4f16-8764-96adc6a5e908",
+      "description": "Fire Swirl",
+      "url": "https://youtu.be/CGVh9e_kTP4",
+      "authors": [
+        "Alex Redfish"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "flame",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:36:00Z"
+    },
+    {
+      "id": "962fcc2d-22ce-4df8-bb9f-46131ffd5b0b",
+      "description": "Fire Textures",
+      "url": "https://1mafx.gumroad.com/",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "fire",
+        "free",
+        "flame"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:36:00Z"
+    },
+    {
+      "id": "eab90620-9b89-4d65-82c6-f1f25fbc9e07",
+      "description": "Fire, Water, Magic, Lightning",
+      "url": "https://youtu.be/0242z4IMz54",
+      "authors": [
+        "Requin Cobalt"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "water",
+        "magic",
+        "lightning",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:37:00Z"
+    },
+    {
+      "id": "7dd1d8d5-8371-468d-a4bc-f0d4b3ccf46b",
+      "description": "Fireball Erosion Mask",
+      "url": "https://youtu.be/UHHJMmeMNok",
+      "authors": [
+        "JangaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "erosion"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:38:00Z"
+    },
+    {
+      "id": "e628a438-8a44-4126-bd5e-7987cb5c7ada",
+      "description": "Flame Flipbook",
+      "url": "https://youtu.be/T_158cErLq4",
+      "authors": [
+        "Alex Redfish"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "flame",
+        "fire",
+        "stylized",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:41.358000Z"
+    },
+    {
+      "id": "df563931-7547-48f8-bd62-3c0edb2586f6",
+      "description": "Flame Painter Online",
+      "url": "https://www.escapemotions.com/experiments/flame/",
+      "authors": [
+        "Escape Motions"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "free",
+        "simulate",
+        "flame",
+        "fire",
+        "abstract"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:40:00Z"
+    },
+    {
+      "id": "a8afa15e-1fdb-4ca8-9c6c-f00948c4a081",
+      "description": "Flame Textures 1/2",
+      "url": "https://www.youtube.com/watch?v=m-XB7hJzjIs",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "flame",
+        "fire",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:40:00Z"
+    },
+    {
+      "id": "1d572d48-cc9d-809c-8572-e34a5779c7c1",
+      "description": "Flame Trail Textures",
+      "url": "https://drive.google.com/drive/folders/1XSwdY_yMx2Jcz6CEElLPPCmo0baP-AIV",
+      "authors": [
+        "Zoin"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "trail"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-04-14T16:11:39.519000Z"
+    },
+    {
+      "id": "8324134c-2056-4d02-9bab-1e2d3fe4b59c",
+      "description": "Flow Map Painter",
+      "url": "http://teckartist.com/?page_id=107",
+      "authors": [
+        "TECK LEE TA"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "flow"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:40:00Z"
+    },
+    {
+      "id": "32f72d30-86c6-41e2-9095-ad77aa8769b2",
+      "description": "Flow Map Painting",
+      "url": "https://www.unrealengine.com/en-US/blog/photoshop-generated-flow-maps",
+      "authors": [
+        "Epic"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "photoshop",
+        "flow"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:43:00Z"
+    },
+    {
+      "id": "57e37f75-15ea-487c-a6a5-5aa98cf9f539",
+      "description": "FootageCrate (5 Free per Day)",
+      "url": "https://vfx.productioncrate.com/free-video-effects-categories.html",
+      "authors": [],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "fire",
+        "flame",
+        "magic",
+        "muzzle",
+        "explosion",
+        "embers",
+        "sparkles",
+        "smoke",
+        "dust",
+        "debris"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:44:00Z"
+    },
+    {
+      "id": "3b172d48-cc9d-8054-8f2e-f1a5c3b1877f",
+      "description": "Free High-Res Photos",
+      "url": "https://texturelabs.org/",
+      "authors": [
+        "Brady Erickson"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "water",
+        "concrete",
+        "glass",
+        "paper",
+        "soil",
+        "stone",
+        "fabric"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2026-08-03T11:01:28.593000Z"
+    },
+    {
+      "id": "1d18b31e-878c-4cd2-b341-80be7453adc7",
+      "description": "Free Seamless Textures Generator",
+      "url": "https://www.the-orange-box.com/portfolio_page/free-seamless-texture/",
+      "authors": [
+        "the orange box"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "photoshop"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-12-15T22:44:00Z"
+    },
+    {
+      "id": "46c63d4d-d4f9-4d5e-9243-1d5bb114f6ff",
+      "description": "Free VFX Explosions (multi-layered .exrs)",
+      "url": "https://flippednormals.com/product/free-vfx-explosions-multi-layered-exrs-13681",
+      "authors": [
+        "CompositingAcademy"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "explosion"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:56:53.737000Z"
+    },
+    {
+      "id": "5056845f-357d-4370-9d58-8ef5444daa10",
+      "description": "From noise texture to animated nebula - Blender Procedural Material",
+      "url": "https://youtu.be/-VJW5SImAvo",
+      "authors": [
+        "Sina Sinaie"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "blender",
+        "noise",
+        "nebula",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:32:00Z"
+    },
+    {
+      "id": "fedf0154-ed81-4293-8147-4aeda8bb5674",
+      "description": "FX Reference Video Collection",
+      "url": "https://tharlevfx.gumroad.com/l/sbhfV",
+      "authors": [
+        "tharlevfx",
+        "Thomas Harle"
+      ],
+      "types": [
+        "reference",
+        "footage"
+      ],
+      "tags": [
+        "photobash",
+        "5$",
+        "photo"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-25T14:50:00Z"
+    },
+    {
+      "id": "839cdac0-0184-41a6-969c-f7bc2189f0a3",
+      "description": "Game VFX Tutorial: Noise Textures",
+      "url": "https://youtu.be/Y0Vv41tKgqY",
+      "authors": [
+        "Ryan Gatts"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "noise",
+        "paint"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-10-04T14:12:00Z"
+    },
+    {
+      "id": "ec3d6cd8-0904-4a0a-8605-d700189d4bee",
+      "description": "Generate Noise Textures in Unreal",
+      "url": "https://www.unrealengine.com/en-US/tech-blog/getting-the-most-out-of-noise-in-ue4",
+      "authors": [
+        "Ryan Brucks"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "noise",
+        "unreal",
+        "procedural"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-11T23:46:00Z"
+    },
+    {
+      "id": "37a37f5b-1741-445c-a727-1ecae0f0c953",
+      "description": "Generate Stylized Flame Flipbook in Unreal",
+      "url": "https://www.artstation.com/artwork/2xyxzK",
+      "authors": [
+        "simonschreibt"
+      ],
+      "types": [
+        "reference"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "flame",
+        "fire",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:33.705000Z"
+    },
+    {
+      "id": "c118e87d-4094-4ebd-87e7-939ff8492661",
+      "description": "GettyImages Video Gallery",
+      "url": "https://www.gettyimages.fr/vid%C3%A9os/foam?assettype=film&excludenudity=false&family=creative&phrase=foam&sort=mostpopular&license=rf%2Crr",
+      "authors": [
+        "GettyImages"
+      ],
+      "types": [
+        "reference",
+        "footage"
+      ],
+      "tags": [
+        "photobash",
+        "photo",
+        "video",
+        "foam",
+        "water",
+        "fire",
+        "embers",
+        "sparkles",
+        "lightning",
+        "explosion",
+        "abstract",
+        "dust",
+        "smoke",
+        "cloud",
+        "cobweb",
+        "spiderweb",
+        "web"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:47:00Z"
+    },
+    {
+      "id": "f04706ce-0565-448d-b91f-0d8ca2db3de3",
+      "description": "Ghibli Inspired Brushes for Photoshop and Procreate",
+      "url": "https://www.artstation.com/marketplace/p/avRD/ghibli-inspired-brushes-for-photoshop-and-procreate",
+      "authors": [
+        "Madeleine Bellwoar"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "6$",
+        "cloud",
+        "smoke"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:58:00Z"
+    },
+    {
+      "id": "26872d48-cc9d-8000-9c1d-d5a6da5829b1",
+      "description": "Greeble",
+      "url": "https://displacementx.pages.dev/",
+      "authors": [
+        "satelllte"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "noise",
+        "scifi",
+        "greeble"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-09-08T07:46:19.773000Z"
+    },
+    {
+      "id": "93b32d56-5b18-4dfc-a2bd-df11cbeda26c",
+      "description": "Ground Crack",
+      "url": "https://youtu.be/KzhJDJVQ7ow",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photobash",
+        "cracks",
+        "impact"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T20:59:00Z"
+    },
+    {
+      "id": "438430d2-a84b-4169-9dc6-b72c0b63ab01",
+      "description": "Ground Cracks 1/3 in Substance Designer",
+      "url": "https://www.youtube.com/watch?v=3q3VyBugXis",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "cracks",
+        "impact"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:03:00Z"
+    },
+    {
+      "id": "26862d61-48bc-4304-b10a-a8244566f231",
+      "description": "Ground Smoke",
+      "url": "https://youtu.be/LgAHSn2jLB4",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "smoke",
+        "dust",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:03:00Z"
+    },
+    {
+      "id": "cfa0080d-06d9-42b9-af64-bc4ac3def2c3",
+      "description": "Guide how to create base textures for special effects",
+      "url": "https://youtu.be/vXl3sYe00rM",
+      "authors": [
+        "Hovl Studio"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "ray",
+        "nova",
+        "aura",
+        "cracks",
+        "swirl",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:04:00Z"
+    },
+    {
+      "id": "022c0108-e133-4746-992e-66e6cbbaaa13",
+      "description": "Handpainted Flipbooks 01- Assets for VFX Artists",
+      "url": "https://www.artstation.com/marketplace/p/YDnN0/handpainted-flipbooks-01-assets-for-vfx-artists?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Rub Luna de San Macario"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "20$",
+        "explosion",
+        "fire",
+        "stylized",
+        "poison",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:27.520000Z"
+    },
+    {
+      "id": "e18290f7-845e-4655-8cd6-68d0ccd479c2",
+      "description": "Houdini: Loopable Fireball Pyro Sim & Flipboop",
+      "url": "https://youtu.be/OmoiPRvnSm0",
+      "authors": [
+        "simonschreibt"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "simulate",
+        "fire",
+        "flame",
+        "smoke",
+        "pyro",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:20.530000Z"
+    },
+    {
+      "id": "dd0f9273-42b9-4c4e-8784-6da45ffd9ccd",
+      "description": "How do you make textures?",
+      "url": "https://realtimevfx.com/t/how-do-you-make-textures/11732",
+      "authors": [
+        "HUN0"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "paint",
+        "photobash"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-17T10:26:00Z"
+    },
+    {
+      "id": "86f8d50f-8047-4458-ae23-be1f12f7cb98",
+      "description": "How to create Smoke Texture?",
+      "url": "https://realtimevfx.com/t/smoke-spirte-sheet/10838/4?u=simonschreibt",
+      "authors": [
+        "LudeosShaft"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "paint",
+        "simulate",
+        "procedural",
+        "photobash"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-17T09:18:00Z"
+    },
+    {
+      "id": "6d9b60cf-ea3d-442f-8568-ef491b15bf07",
+      "description": "How to create swirl texture",
+      "url": "https://realtimevfx.com/t/question-about-creating-vfx-textures/5464/5?u=simonschreibt",
+      "authors": [
+        "gdxplode"
+      ],
+      "types": [
+        "forumthread",
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-12T10:40:00Z"
+    },
+    {
+      "id": "020d193c-2d9d-4bc5-9616-abc72a5998c8",
+      "description": "How to draw effects Ebook & video",
+      "url": "https://mitchleeuwe.gumroad.com/l/hizsu?layout=profile",
+      "authors": [
+        "Mitch Leeuwe"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "14$",
+        "photoshop",
+        "fire",
+        "water",
+        "smoke",
+        "slime",
+        "poison"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-02-05T17:06:25.243000Z"
+    },
+    {
+      "id": "ee5e6c1d-fdd3-4c2b-aafe-0eead1c7d312",
+      "description": "How To Make Memory Folds Alphas for ZBrush",
+      "url": "https://www.artstation.com/artwork/ykdnkx",
+      "authors": [
+        "VK GameDev"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "Marvelous Designer",
+        "zBrush"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-03-15T09:42:05.747000Z"
+    },
+    {
+      "id": "4edd4442-5553-4ca1-bbc9-adb5834d82d4",
+      "description": "How to make textures for VFX!",
+      "url": "https://youtu.be/nkgVRt1p1k0",
+      "authors": [
+        "Piloto Studio"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "noise",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:07:00Z"
+    },
+    {
+      "id": "19272d48-cc9d-805a-9d02-cbc050168a1a",
+      "description": "Ice Pack",
+      "url": "https://dete.gumroad.com/l/deteicesub",
+      "authors": [
+        "Dete Art Resources"
+      ],
+      "types": [
+        "texturepack",
+        "generator"
+      ],
+      "tags": [
+        "substance designer",
+        "ice"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-06T22:18:33.246000Z"
+    },
+    {
+      "id": "dbc7f1f9-b5c9-4b40-9257-76a54ba51993",
+      "description": "Ice Spike Texture",
+      "url": "https://www.artstation.com/blogs/kanoba/meKD/paragon-ice-spike-texture-breakdown",
+      "authors": [
+        "Jordan Hey"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "ice"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:15:00Z"
+    },
+    {
+      "id": "cdc0728b-3954-4179-848f-1cd2bc1a6abd",
+      "description": "Impact",
+      "url": "http://re-lvup.blog.jp/archives/cat_320431.html?p=4",
+      "authors": [
+        "yt_refrain"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "impact",
+        "fire",
+        "sparkles",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:16:00Z"
+    },
+    {
+      "id": "29fd6bab-04ff-4b17-88fb-27d3b740fa28",
+      "description": "Impact Crater",
+      "url": "https://twitter.com/Lasphir/status/1571158986636029955",
+      "authors": [
+        "Yuqing Shi"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "cracks",
+        "procedural",
+        "substance designer",
+        "impact"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-09-18T17:29:00Z"
+    },
+    {
+      "id": "88156c40-6337-4521-9515-b91a520d8ddd",
+      "description": "Impact Decal",
+      "url": "https://www.materialmaker.org/material?id=1008",
+      "authors": [
+        "PavelOliva"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "impact",
+        "decal",
+        "Material Maker",
+        "crater",
+        "cc0"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2024-07-19T12:51:29.957000Z"
+    },
+    {
+      "id": "12b42bfa-44aa-43f6-a67e-272cdb96e50c",
+      "description": "Impact Decal",
+      "url": "https://youtu.be/eT43dAD-o2E?t=932",
+      "authors": [
+        "Yuqing Shi"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-03-28T18:52:33.926000Z"
+    },
+    {
+      "id": "4434e13e-2619-424f-a90e-46d300584c22",
+      "description": "Impact Shape",
+      "url": "https://twitter.com/LushVFX/status/1364872771566776324",
+      "authors": [
+        "LushVFX"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "impact",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:16:00Z"
+    },
+    {
+      "id": "9a64d80f-49a8-428d-94c4-82093ab4c1f3",
+      "description": "Jason Keysers Pinterest",
+      "url": "https://www.pinterest.jp/Keyserito/_saved/",
+      "authors": [
+        "Jason Keyser"
+      ],
+      "types": [
+        "reference"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "water",
+        "lightning",
+        "flame",
+        "explosion",
+        "splash",
+        "splatter",
+        "smoke",
+        "dust",
+        "ray"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:16:00Z"
+    },
+    {
+      "id": "0d4f6550-a938-4269-a763-e53d095f628f",
+      "description": "KumoWorks - Cloud Generator",
+      "url": "https://github.com/opentoonz/kumoworks",
+      "authors": [
+        "opentoonz"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "cloud",
+        "dust",
+        "smoke"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:16:00Z"
+    },
+    {
+      "id": "d41b54d8-ea38-4e4c-92cf-5ddeb49acf2e",
+      "description": "Lazy Artist Guide (flame rendering)",
+      "url": "https://vimeo.com/286182503",
+      "authors": [
+        "SideFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "houdini",
+        "simulate",
+        "flame",
+        "fire"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:17:00Z"
+    },
+    {
+      "id": "46a21e63-5603-4b46-ad91-28a820060b8e",
+      "description": "League of Legends VFX Guide",
+      "url": "https://nexus.leagueoflegends.com/wp-content/uploads/2017/10/VFX_Styleguide_final_public_hidpjqwx7lqyx0pjj3ss.pdf",
+      "authors": [
+        "Riot"
+      ],
+      "types": [
+        "slide"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "flame",
+        "magic",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:17:00Z"
+    },
+    {
+      "id": "f2167dd8-4de3-4785-a1f7-15a04c75087c",
+      "description": "League Thunder VFX",
+      "url": "https://www.leagueoflegends.com/en-us/news/dev/dev-a-storm-is-brewing/",
+      "authors": [
+        "Riot"
+      ],
+      "types": [
+        "reference"
+      ],
+      "tags": [
+        "paint",
+        "impact",
+        "stylized",
+        "lightning",
+        "cloud",
+        "sparkles",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:19:00Z"
+    },
+    {
+      "id": "c09ff6da-8a84-4373-9895-e61c5e38bdbc",
+      "description": "Leaking Generator",
+      "url": "https://flippednormals.com/product/leaking-generator-commercial-license-11592",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "free",
+        "substance designer",
+        "dirt"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:57:46.160000Z"
+    },
+    {
+      "id": "c1b6ad05-f588-478e-a523-9d296a2d9667",
+      "description": "Lensflare Textures 1/3 in Substance Designer",
+      "url": "https://www.youtube.com/watch?v=mQxkZiv4q1Q",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "ray",
+        "aura"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:19:00Z"
+    },
+    {
+      "id": "d27b7ee0-970c-473b-af15-1aa6ba68ec27",
+      "description": "Light Ray Texture",
+      "url": "https://www.artstation.com/artwork/JeGE8A",
+      "authors": [
+        "Yuqing Shi"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "ray",
+        "light",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-10-27T14:23:00Z"
+    },
+    {
+      "id": "c2129004-2d8d-46e0-a12b-537708727e06",
+      "description": "Light Rays",
+      "url": "http://re-lvup.blog.jp/archives/cat_320431.html?p=3",
+      "authors": [],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "lightning",
+        "ray",
+        "aura"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:22:00Z"
+    },
+    {
+      "id": "3a772d48-cc9d-80fc-b2b9-feee772a251c",
+      "description": "Lighting Trail Noise",
+      "url": "https://www.artstation.com/artwork/kQyYBd",
+      "authors": [
+        "Daniil Shmelkov"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "lightning",
+        "noise",
+        "cc0",
+        "free"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2026-07-24T09:17:09.776000Z"
+    },
+    {
+      "id": "cd65886f-9cbe-4289-b04e-554fa65801a6",
+      "description": "Lightning",
+      "url": "https://youtu.be/LjwEKOmgoIk",
+      "authors": [
+        "Alex Redfish"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "lightning",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:22:00Z"
+    },
+    {
+      "id": "2c0ea31b-7b1e-465d-920b-cc099aca4e79",
+      "description": "Lightning Texture from bean sprouts",
+      "url": "https://twitter.com/Maskman_y/status/1610923773217370114",
+      "authors": [],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photobash"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-02-01T09:20:34.362000Z"
+    },
+    {
+      "id": "698ce9a8-8798-4c0e-bb75-9fee802334d7",
+      "description": "Lightning Textures 1/2",
+      "url": "https://www.youtube.com/watch?v=WUfx5z7gi60",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "lightning"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:23:00Z"
+    },
+    {
+      "id": "1b672d48-cc9d-8065-b8b5-e58dbd21d8e5",
+      "description": "Liquid Splash",
+      "url": "https://www.linkedin.com/posts/vladislav-nekhviadovich_vfx-texture-nehved-activity-7306051418526765056-qEX7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABC2_QBKkETAF97DlBWRVSDyhrWQQM6Ej4",
+      "authors": [
+        "Uladzislau Nekhviadovich"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "liquid",
+        "splash",
+        "splashes",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-03-14T18:04:04.422000Z"
+    },
+    {
+      "id": "b4adfa30-cb70-4f39-b350-86b46c8a3440",
+      "description": "Magic Fx Photoshop Brushes Vol. 1",
+      "url": "https://flippednormals.com/product/magic-fx-photoshop-brushes-vol-1-5088",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "6$",
+        "swirl",
+        "magic"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:58:12.401000Z"
+    },
+    {
+      "id": "a7cfff67-ddf4-456d-bf68-e8a7b7fde787",
+      "description": "Material Maker",
+      "url": "https://rodzilla.itch.io/",
+      "authors": [
+        "RodZilla"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "Material Maker",
+        "procedural",
+        "free"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-08-05T17:44:00Z"
+    },
+    {
+      "id": "89925154-ef84-4573-ba22-83f37300675a",
+      "description": "Matrix Generator",
+      "url": "https://flippednormals.com/product/matrix-generator-commercial-license-11591",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "free",
+        "substance designer",
+        "abstract"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:58:28.554000Z"
+    },
+    {
+      "id": "4c670b3a-08d1-4d51-9b3e-6d07291d0fff",
+      "description": "Melee Slash Textures 2/2",
+      "url": "https://youtu.be/aQuc5dwxh2I",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "slash",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:28:00Z"
+    },
+    {
+      "id": "6b933236-09cd-4582-a64f-c2e3d1f2d8a6",
+      "description": "Mist Photoshop Brush Set",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "10$",
+        "noise",
+        "dust",
+        "smoke",
+        "water",
+        "mist"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:59:16.578000Z"
+    },
+    {
+      "id": "08e4fa88-0ab3-41bd-9004-5eb85a06e702",
+      "description": "More Realistic Clouds",
+      "url": "https://www.artstation.com/blogs/martinschmitter/WzZY/substance-designer-beginner-quicktip-179-more-realistic-clouds",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "cloud",
+        "smoke"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:29:00Z"
+    },
+    {
+      "id": "fa12d2be-21fd-4178-b53d-98664685b10c",
+      "description": "Mud and Water of Spintires: MudRunner",
+      "url": "https://www.gamedeveloper.com/programming/mud-and-water-of-spintires-mudrunner",
+      "authors": [
+        "Pavel Zagrebelnyy"
+      ],
+      "types": [
+        "reference"
+      ],
+      "tags": [
+        "photobash",
+        "mud",
+        "water",
+        "height"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:31:00Z"
+    },
+    {
+      "id": "cc657671-12cc-4c41-84a9-916f966a8f3e",
+      "description": "Muzzle Flash from Rubber Duck Photo",
+      "url": "https://realtimevfx.com/t/creating-textures-from-random-source-images/14355?u=simonschreibt",
+      "authors": [
+        "Pete Clark"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "photoshop",
+        "photobash",
+        "muzzle"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:32:00Z"
+    },
+    {
+      "id": "73fe6249-cc9b-4d58-8678-14d91454b16e",
+      "description": "Muzzle Flash Quick Tip",
+      "url": "https://twitter.com/EtheringtonBros/status/1461380959845167110",
+      "authors": [
+        "EtheringtonBrothers"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "muzzle",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:32:00Z"
+    },
+    {
+      "id": "142bc161-c666-447a-8b0c-ead162c40a42",
+      "description": "Neon Flames",
+      "url": "https://29a.ch/sandbox/2011/neonflames/",
+      "authors": [
+        "Jonas Wagner"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "flame",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:33:00Z"
+    },
+    {
+      "id": "22972d48-cc9d-8067-952b-da7c4891fea5",
+      "description": "Noise Generator",
+      "url": "https://noisegen.bubblebirdstudio.com/",
+      "authors": [
+        "Bubblebird Studio"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-07-07T09:18:24.303000Z"
+    },
+    {
+      "id": "5f5f2788-4b83-4bd5-8f69-60c4d91bb8aa",
+      "description": "Noise Textures",
+      "url": "https://1mafx.gumroad.com/",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "free",
+        "texture"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-11T23:46:00Z"
+    },
+    {
+      "id": "8005cdbc-a24f-4313-90bd-b8881b934157",
+      "description": "Noise Textures",
+      "url": "https://www.artstation.com/marketplace/p/6lXLy/noise-textures?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Denis Fedorenko"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-08-02T18:24:00Z"
+    },
+    {
+      "id": "db16fac5-788c-45c1-87a1-0b2c93645fac",
+      "description": "Noise Textures",
+      "url": "http://nielsdewitte.be/index.php?page=Pages/VFExtra.php",
+      "authors": [
+        "Niels Dewitte"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "free",
+        "ray",
+        "blink",
+        "aura"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:34:00Z"
+    },
+    {
+      "id": "48ceeb4a-c966-4a74-bfde-6b183b5df794",
+      "description": "Noise Textures",
+      "url": "https://www.paulinami.com/blog/categories/free-textures",
+      "authors": [
+        "Paulina"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "free",
+        "texture"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-11T23:46:00Z"
+    },
+    {
+      "id": "3f78d203-7686-4fc5-aa30-fd92ee4fec71",
+      "description": "Noise Textures V1",
+      "url": "https://luos.gumroad.com/l/FreeNoise",
+      "authors": [
+        "Luos"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "free",
+        "texture"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-11T23:46:00Z"
+    },
+    {
+      "id": "ee42a109-efc1-40a8-9755-a6af86e27b44",
+      "description": "Noise Textures V2",
+      "url": "https://luos.gumroad.com/l/bouSt",
+      "authors": [
+        "Luos"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise",
+        "free",
+        "texture"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-11T23:46:00Z"
+    },
+    {
+      "id": "e658fa4f-c171-4fb8-ba48-70b43bd57db6",
+      "description": "Normal Map Generator",
+      "url": "http://cpetry.github.io/NormalMap-Online/",
+      "authors": [
+        "Christian Petry"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "free",
+        "normal"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:34:00Z"
+    },
+    {
+      "id": "702c27c9-d28d-44f9-af3c-e7a0d1e0c6aa",
+      "description": "Nova",
+      "url": "https://twitter.com/cmzw_/status/1741130735682277492",
+      "authors": [
+        "celestialmaze"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-12-30T17:12:11.319000Z"
+    },
+    {
+      "id": "c2bee9aa-c354-45a7-9789-c58253a674fd",
+      "description": "Oil",
+      "url": "https://www.deviantart.com/deharme/art/Photoshop-Brushes-Deharme-OIL-SET-Photoshop-CC-707869840",
+      "authors": [
+        "Deharme"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "abstract",
+        "traditional",
+        "dirt"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:35:00Z"
+    },
+    {
+      "id": "c4f36073-3fea-4e92-ad1c-2b5c3a9cb456",
+      "description": "Orb",
+      "url": "https://www.youtube.com/watch?v=C_eoQwvvbCI",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "photoshop",
+        "orb",
+        "magic"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:35:00Z"
+    },
+    {
+      "id": "c0946fbe-21b4-4762-bed2-c0449e5cacb8",
+      "description": "Paint fire, lava, bubbles, drops, ..",
+      "url": "https://www.youtube.com/c/JamesJulier-Artist/videos",
+      "authors": [
+        "James Julier"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "flame",
+        "fire",
+        "drops",
+        "water",
+        "bubble",
+        "lava"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:36:00Z"
+    },
+    {
+      "id": "1a4d07b5-17c9-44a0-8f2b-b2e1542821d9",
+      "description": "Paint Strokes",
+      "url": "https://www.artstation.com/blogs/martinschmitter/bZ01/substance-designer-beginner-quicktip-150-paint-strokes",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:36:00Z"
+    },
+    {
+      "id": "f4fbceb7-d7fc-49b0-a0fc-ad24ef324833",
+      "description": "Paint VFX Textures for Games",
+      "url": "https://www.udemy.com/course/paint-vfx-textures-for-games/?couponCode=A7821936D174ED30E20D",
+      "authors": [
+        "Vince Wedde"
+      ],
+      "types": [
+        "tutorial",
+        "course"
+      ],
+      "tags": [
+        "paint",
+        "20$",
+        "photoshop"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-19T15:15:03.693000Z"
+    },
+    {
+      "id": "6396769d-c55a-4afa-94f0-2978c2d8a61a",
+      "description": "Paint/Brush Strokes Alphas",
+      "url": "https://www.artstation.com/marketplace/p/N6yVX/poster-color-alphas-alphas-from-real-paint",
+      "authors": [
+        "Jan Wyss"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "30$",
+        "photoshop",
+        "brush",
+        "paint"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-08-21T09:42:26.415000Z"
+    },
+    {
+      "id": "e1f021f5-0b91-4321-9112-fc1a70c57096",
+      "description": "Painting 2D VFX Animation",
+      "url": "https://www.youtube.com/c/StylusRumble/videos",
+      "authors": [
+        "Stylus Rumble"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "fire",
+        "stylized",
+        "flame"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-08-02T19:05:00Z"
+    },
+    {
+      "id": "8d87561c-7fc7-4e07-a2b8-6ef668cf5b97",
+      "description": "Painting fire using Gradient Map in Photoshop",
+      "url": "https://youtu.be/hxjLNLTZCC8",
+      "authors": [
+        "Sergey Samarskiy",
+        "James Julier"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "fire",
+        "flame"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:37:00Z"
+    },
+    {
+      "id": "0d8da52c-dd42-4d17-b26d-e76121558a48",
+      "description": "Painting Video Games Projectiles",
+      "url": "https://youtu.be/4StID1cc8dQ",
+      "authors": [
+        "Kienan Lafferty"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "fire",
+        "plasma",
+        "flame",
+        "projectile",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:38:00Z"
+    },
+    {
+      "id": "ee9fbab4-12ed-4904-b102-74a69a80348a",
+      "description": "Pattern Textures 1/3 in Substance Designer",
+      "url": "https://www.youtube.com/watch?v=ve-aBt22-iI",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:38:00Z"
+    },
+    {
+      "id": "5eeb932e-230a-4f01-b128-dd56ccfb8834",
+      "description": "Pexels",
+      "url": "https://www.pexels.com/de-de/suche/vfx/",
+      "authors": [
+        "Pexels"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "cc0",
+        "free",
+        "photo",
+        "smoke",
+        "dust",
+        "fire",
+        "flame",
+        "sparkles",
+        "water",
+        "drops",
+        "dirt",
+        "foam",
+        "handpick"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": true,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:09:00.001000Z"
+    },
+    {
+      "id": "741bf9e9-a9d1-4c5b-9367-43f2adb811ae",
+      "description": "Photos: Fire, Ink, Splatter, Water",
+      "url": "https://www.textures.com/category/fx/114542",
+      "authors": [
+        "textures.com",
+        "textures"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "photo",
+        "fire",
+        "flame",
+        "blink",
+        "splatter",
+        "splash",
+        "drops",
+        "water"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:40:00Z"
+    },
+    {
+      "id": "62e629fa-47a1-4775-9751-42c43bfddc11",
+      "description": "Photoshop Flame Filter",
+      "url": "https://youtu.be/HtmwAS7-nco",
+      "authors": [
+        "Adobe"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "flame",
+        "fire"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:41:00Z"
+    },
+    {
+      "id": "a4cfc943-ae64-43a1-b648-86dd6139ad99",
+      "description": "Photoshop for Game VFX 1/4: Tools",
+      "url": "https://youtu.be/PuhFPyZSnTk",
+      "authors": [
+        "Jason Keyser"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-18T14:19:00Z"
+    },
+    {
+      "id": "b788a385-b7a8-42f7-8ecc-b34d6b912562",
+      "description": "Photoshop Tools Pack",
+      "url": "https://ssam.gumroad.com/l/wXpst",
+      "authors": [
+        "Sergey Samarskiy"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "5$",
+        "abstract",
+        "dirt",
+        "traditional"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:41:00Z"
+    },
+    {
+      "id": "ac9d49ba-66de-4616-964a-8ce57d835db2",
+      "description": "Pixabay",
+      "url": "https://pixabay.com/images/search/fire/",
+      "authors": [
+        "Pixabay"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "photo",
+        "flame",
+        "fire",
+        "splash",
+        "foam",
+        "water",
+        "drops",
+        "lightning"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:43:00Z"
+    },
+    {
+      "id": "a59c785f-b91d-40b3-a742-a9f98b15c3a8",
+      "description": "PixaFlux",
+      "url": "https://realtimevfx.com/t/pixaflux-node-based-image-editor-and-texture-composer/17695?u=simonschreibt",
+      "authors": [
+        "Diego Castano"
+      ],
+      "types": [
+        "generator",
+        "forumthread"
+      ],
+      "tags": [
+        "noise",
+        "free",
+        "procedural"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-17T09:16:00Z"
+    },
+    {
+      "id": "b3be80ec-b934-439f-8aea-e0eef85eda77",
+      "description": "Projectile Textures 1/2",
+      "url": "https://www.youtube.com/watch?v=AXOgHgj2MLA",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "photoshop",
+        "paint",
+        "projectile",
+        "fire",
+        "flame",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:43:00Z"
+    },
+    {
+      "id": "2bb72d48-cc9d-80c1-a3e0-e1ee2fb44d2b",
+      "description": "Pseudo Volume Generator (3D Texture) [WEB]",
+      "url": "https://acetix.itch.io/pseudo-volume-generator",
+      "authors": [
+        "Acetix"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "volume"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2026-08-03T10:49:24.850000Z"
+    },
+    {
+      "id": "b5b581be-1742-424e-b0d0-3f9e0b4d4611",
+      "description": "PublicDomainPictures",
+      "url": "https://www.publicdomainpictures.net/en/hledej.php?hleda=fire",
+      "authors": [
+        "PublicDomainPictures"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "photo",
+        "fire",
+        "flame",
+        "lightning",
+        "splash",
+        "water",
+        "drops",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:45:00Z"
+    },
+    {
+      "id": "f45a281a-160e-4df2-80af-aaeeee027466",
+      "description": "Quick Tip 19 (Specific Leaking Details)",
+      "url": "https://www.artstation.com/blogs/martinschmitter/WXnY/substance-designer-beginner-quick-tip-19-specific-leaking-details",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "dirt"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:45:00Z"
+    },
+    {
+      "id": "4dc89226-7b19-4244-b882-2fc325821949",
+      "description": "Quick Tip 21 (Easy Splatters)",
+      "url": "https://www.artstation.com/blogs/martinschmitter/3b4o/substance-designer-beginner-quick-tip-21-easy-splatters",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "splatter",
+        "splash",
+        "impact"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:45:00Z"
+    },
+    {
+      "id": "a97b3c64-7948-4aa7-a6b3-d253931548de",
+      "description": "Quicktip 112 (Glass/Bottle Stains)",
+      "url": "https://www.artstation.com/blogs/martinschmitter/pYqn/substance-designer-beginner-quicktip-112-glassbottle-stains",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "aura",
+        "stain"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:46:00Z"
+    },
+    {
+      "id": "5b1bbe83-ec57-46c6-ab47-62749ce350e8",
+      "description": "Quicktip 113 (Liquid Stains)",
+      "url": "https://www.artstation.com/blogs/martinschmitter/RYW0/substance-designer-beginner-quicktip-113-liquid-stains",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "splatter",
+        "splash",
+        "liquid",
+        "impact"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:46:00Z"
+    },
+    {
+      "id": "5ea3dbfb-ea38-43a2-acbe-1bb13f571d1f",
+      "description": "Quicktip 163: Another Mushroom Setup",
+      "url": "https://www.artstation.com/blogs/martinschmitter/3DAA/substance-designer-beginner-quicktip-163-another-mushroom-setup",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "abstract",
+        "aura",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:46:00Z"
+    },
+    {
+      "id": "1b332e57-dfdd-44bf-8507-2d61152c0ba5",
+      "description": "Quicktip 5 (Swirl Paint Effect)",
+      "url": "https://www.artstation.com/blogs/martinschmitter/jKjw/substance-designer-beginner-quicktip-5-swirl-paint-effect",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "swirl",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:47:00Z"
+    },
+    {
+      "id": "c0586f1c-232b-403b-919b-53c672e5b6e8",
+      "description": "Raindrop",
+      "url": "https://twitter.com/EtheringtonBros/status/1766905221987414102/photo/1",
+      "authors": [
+        "EtheringtonBrothers"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "water",
+        "splash",
+        "rain",
+        "drop",
+        "drops",
+        "raindrop",
+        "impact",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-03-10T19:40:39.815000Z"
+    },
+    {
+      "id": "e90003cd-0d31-499b-aaff-77ddd88893ee",
+      "description": "Real time VFX: Houdini to UE4 pyro sim.",
+      "url": "https://youtu.be/3yfS3BuNbQU",
+      "authors": [
+        "Johannes Coetzee"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "simulate",
+        "pyro",
+        "smoke",
+        "fire",
+        "dust",
+        "houdini"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:47:00Z"
+    },
+    {
+      "id": "03234af6-c544-4b1d-8046-2547651cb9f8",
+      "description": "Realtime VFX Store",
+      "url": "https://realtimevfxstore.com/collections/water-vfx?page=2",
+      "authors": [
+        "realtimevfxstore"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "water",
+        "waterfall",
+        "fire",
+        "explosion",
+        "magic",
+        "15$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-01-18T09:12:00.888000Z"
+    },
+    {
+      "id": "f0054355-b7f1-4a77-b7ac-24567265f867",
+      "description": "Save 75% space for ring textures",
+      "url": "https://twitter.com/letsmakefx/status/1461002132199337986?t=5BBprh5Tx7Er3CResz2HhQ&s=19",
+      "authors": [
+        "LetsMakeVFX"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "nova",
+        "aura"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:47:00Z"
+    },
+    {
+      "id": "f19ee386-b32c-4eef-aaf5-2dcefce5b989",
+      "description": "Scorch Marks Brush Set",
+      "url": "https://flippednormals.com/product/scorch-marks-brush-set-8796",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "13$",
+        "dirt",
+        "abstract",
+        "debris"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-22T23:32:05.393000Z"
+    },
+    {
+      "id": "845505b6-3ea7-414a-8fff-1ffe7545f1e7",
+      "description": "Seamless Texture Generator",
+      "url": "https://texture-generator.com/generator/demo/",
+      "authors": [
+        "Tamas Schalk"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-11T23:47:00Z"
+    },
+    {
+      "id": "05c6fc6f-567c-455d-9623-7200b6f18bc9",
+      "description": "Shapes (Artistic Principles of VFX #2)",
+      "url": "https://www.youtube.com/watch?v=Wb7r6_L9Fyk",
+      "authors": [
+        "Jason Keyser"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "stylized",
+        "shape"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:48:00Z"
+    },
+    {
+      "id": "643c84fe-4eef-4321-ba63-73f8a1f83653",
+      "description": "Shockwave Texture Pack",
+      "url": "https://ducvu.gumroad.com/l/FuzRDm",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "nova",
+        "aura",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:49:00Z"
+    },
+    {
+      "id": "36c1033d-96e8-4257-b978-b3c98b184465",
+      "description": "Simulating Blood Splatters in Houdini",
+      "url": "https://www.overdraw.xyz/simulating-blood-splatters-in-houdini",
+      "authors": [
+        "overdraw.xyz"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "simulate",
+        "blood",
+        "splatter",
+        "splash",
+        "houdini",
+        "10$",
+        "70$",
+        "30$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-02-13T17:35:00Z"
+    },
+    {
+      "id": "e8ecad3a-3f1b-4f8a-b216-a3eb686fac72",
+      "description": "Sky Crack [Fortnite Fan-Art]",
+      "url": "https://www.artstation.com/artwork/wJRd4L",
+      "authors": [
+        "SsecretPlayerr Alex"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-12-06T13:51:00Z"
+    },
+    {
+      "id": "9d740a49-85f6-488c-b286-3307bdb3565b",
+      "description": "Slate",
+      "url": "https://www.facedownfx.com/downloadoptions",
+      "authors": [
+        "FacedownFX ltd"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "flow"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-03-07T11:59:00Z"
+    },
+    {
+      "id": "1ed0f835-c5b5-4867-ae7b-740fbb1c027f",
+      "description": "Slide (82) showing fire/explosion textures",
+      "url": "https://www.gdcvault.com/play/1024704/Visual-Effects-Bootcamp-Rapid",
+      "authors": [
+        "GDC"
+      ],
+      "types": [
+        "talk"
+      ],
+      "tags": [
+        "photobash",
+        "simulate",
+        "smoke",
+        "dust",
+        "liquid",
+        "slime",
+        "lightning",
+        "handpick"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:34:00.001000Z"
+    },
+    {
+      "id": "f381cc87-aada-4daf-a579-3aec5bebcfb5",
+      "description": "Slime Brush Set",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "6$",
+        "slime",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:59:37.193000Z"
+    },
+    {
+      "id": "4e6ca310-506c-48ec-812a-52388718bc80",
+      "description": "Smoke Flipbook 1/3",
+      "url": "https://youtu.be/okYeZ1Sab4g",
+      "authors": [
+        "정쩜100"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "smoke",
+        "stylized",
+        "flipbook"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-23T15:51:14.046000Z"
+    },
+    {
+      "id": "66c59368-d9d3-4d84-86bf-0539aed2c6c3",
+      "description": "Smoke Particles",
+      "url": "https://www.kenney.nl/assets/smoke-particles",
+      "authors": [
+        "Kenney"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "smoke",
+        "cloud",
+        "cc0"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2022-08-01T07:05:00Z"
+    },
+    {
+      "id": "cfb5bc44-9267-42cb-b4c0-26c1038393ff",
+      "description": "Smoke Trail Generator",
+      "url": "https://velksy.gumroad.com/l/trailgenerator",
+      "authors": [
+        "Gavin Finley"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "substance designer",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:56:00Z"
+    },
+    {
+      "id": "f62fb347-a611-4b1b-957c-cdbfda6dc1ed",
+      "description": "Space Brush Set",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "12$",
+        "dirt",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T14:59:51.650000Z"
+    },
+    {
+      "id": "6b5f2b45-8d5f-44e2-a0c5-5eaaf55afa6b",
+      "description": "Spark Brush Pack",
+      "url": "https://flippednormals.com/product/blizzard-brush-set-5336",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "10$",
+        "sparkles",
+        "fire"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T15:00:04.911000Z"
+    },
+    {
+      "id": "71cccba5-2fa8-42e3-9816-6f1812952cd5",
+      "description": "Sparkle Nova",
+      "url": "https://youtu.be/4e833mEw760",
+      "authors": [
+        "정쩜100"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "sparkles",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:56:00Z"
+    },
+    {
+      "id": "e3697428-a1dd-4ecd-a55e-ca6cc793ec67",
+      "description": "Sparkles",
+      "url": "https://www.artstation.com/marketplace/p/nJG7/sparkle-brushes",
+      "authors": [
+        "Devin Yang"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "sparkles",
+        "dirt"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:58:00Z"
+    },
+    {
+      "id": "2d4fdf6c-1d39-4ecb-bc19-e4e96e56f573",
+      "description": "Spider Web",
+      "url": "https://www.linkedin.com/posts/cristobal-vila-laguarta_an-extremely-simple-tip-to-create-n-gon-patterns-activity-7162848385673162752-ZkWR?utm_source=share&utm_medium=member_desktop",
+      "authors": [
+        "Cristobal Vila Laguarta"
+      ],
+      "types": [
+        "tutorial",
+        "generator"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "spiderweb"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-02-16T08:57:42.429000Z"
+    },
+    {
+      "id": "79c2f20e-1ef0-4dab-9395-e8839e71af3c",
+      "description": "Splash",
+      "url": "https://twitter.com/EnochLee_art/status/1202160745909121024",
+      "authors": [
+        "EnochLee_art"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "photobash",
+        "splash",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:58:00Z"
+    },
+    {
+      "id": "c0473a0b-09fa-4f7b-b66a-b42cfd3cc7a1",
+      "description": "Splash Textures / Blender Generators",
+      "url": "https://flippednormals.com/product/various-splatter-generators-textures-personal-studio-license-11435",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "texturepack",
+        "generator"
+      ],
+      "tags": [
+        "splash",
+        "water",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-01-16T14:32:26.048000Z"
+    },
+    {
+      "id": "100435ed-6f0d-438f-bc22-60af1a702532",
+      "description": "Splatter",
+      "url": "https://www.artstation.com/marketplace/p/Nxgo/splatter-brush-selection",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "splash",
+        "water",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T21:59:00Z"
+    },
+    {
+      "id": "e445b741-a58f-4a0a-99dc-4a12d332a4b4",
+      "description": "Steam & Smoke ||| SET_001 — OpenVDB",
+      "url": "https://betweentwopines.gumroad.com/l/freeSteamPack",
+      "authors": [
+        "Between Two Pines",
+        "JangaFx"
+      ],
+      "types": [
+        "vdb"
+      ],
+      "tags": [
+        "free",
+        "smoke"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-17T20:00:00Z"
+    },
+    {
+      "id": "96c65c9f-a571-47ff-a97c-fb989957f81c",
+      "description": "Steam & Smoke ||| SET_002 — OpenVDB",
+      "url": "https://betweentwopines.gumroad.com/l/freeSmokeVDB",
+      "authors": [
+        "Between Two Pines",
+        "JangaFx"
+      ],
+      "types": [
+        "vdb"
+      ],
+      "tags": [
+        "free",
+        "smoke"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-17T20:00:00Z"
+    },
+    {
+      "id": "9f82a06b-62ea-4491-bb6b-ce79dee0fed3",
+      "description": "Storm Bundle",
+      "url": "https://flippednormals.com/product/storm-bundle-5201",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "16$",
+        "lightning",
+        "cloud",
+        "smoke"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T15:02:25.158000Z"
+    },
+    {
+      "id": "2db532ae-bd9d-404b-ad98-35c930040c7d",
+      "description": "Stylized Flame",
+      "url": "https://youtu.be/5Mw6NpSEb2o",
+      "authors": [
+        "Sirhaian'Arts"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "flame",
+        "fire",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:02:00Z"
+    },
+    {
+      "id": "3e47625e-c3b0-45b5-a1e0-6ee89925ebf3",
+      "description": "Stylized Hit Texture",
+      "url": "https://www.youtube.com/watch?v=krKDqDL6hN8",
+      "authors": [
+        "아르카도의 게임이펙트"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "ray",
+        "impact",
+        "fire",
+        "aura",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:02:00Z"
+    },
+    {
+      "id": "6dd58742-a74d-440d-acea-8ef19f3d8faf",
+      "description": "Stylized Impact",
+      "url": "https://twitter.com/Beardilocks/status/1364759802623135747",
+      "authors": [
+        "Beardilocks"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "paint",
+        "impact",
+        "aura",
+        "nova"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:04:00Z"
+    },
+    {
+      "id": "448a7d70-8f22-4a34-a685-f65da6190255",
+      "description": "Stylized Lightning",
+      "url": "https://www.linkedin.com/posts/veselin-h-66bb83113_vfx-texture-ugcPost-7244298473670410241-DoLp?utm_source=share&utm_medium=member_desktop",
+      "authors": [
+        "Veselin Hristov"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "photoshop"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-09-24T12:17:39.074000Z"
+    },
+    {
+      "id": "2bb72d48-cc9d-8065-8b04-ffdd87c809a7",
+      "description": "Stylized Smoke Texture",
+      "url": "https://www.artstation.com/artwork/QK3DWE",
+      "authors": [
+        "MarinaVFX"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-11-30T17:15:48.383000Z"
+    },
+    {
+      "id": "404f17af-5c03-480d-a25f-7f1733f2f437",
+      "description": "Stylized Water",
+      "url": "https://youtu.be/ckpBQoyM3SE",
+      "authors": [
+        "DucVu Fx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "water",
+        "splash",
+        "liquid",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:04:00Z"
+    },
+    {
+      "id": "5fbf678b-b54c-4942-af73-ecbbebe378b7",
+      "description": "Stylized, Zbrush-style cracks",
+      "url": "https://youtu.be/exxdMTnSjUU",
+      "authors": [
+        "Johnny M"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "cracks"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-05-22T20:05:31.549000Z"
+    },
+    {
+      "id": "f5dcdfad-fc26-4642-b7e6-bdec86dc1695",
+      "description": "Substance Designer - Survival Kit - Part 1",
+      "url": "https://www.artstation.com/marketplace/p/dNBVB/substance-designer-survival-kit-part-1?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Vincent Dérozier"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-06-14T17:15:00Z"
+    },
+    {
+      "id": "861d6fa0-c5b2-4f8f-82e6-47b92eb654df",
+      "description": "Substance Designer - Survival Kit - Part 2",
+      "url": "https://www.artstation.com/marketplace/p/RxBeB/substance-designer-survival-kit-part-2?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Vincent Dérozier"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-06-14T17:16:00Z"
+    },
+    {
+      "id": "99a52df3-f8a9-4231-8dec-2f94d49a7d8f",
+      "description": "Substance Designer dynamic special effects texture production 2/2",
+      "url": "https://www.bilibili.com/video/BV1AS4y1Q7QG/?spm_id_from=333.337.search-card.all.click",
+      "authors": [
+        "Yellow Effects"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-03-28T19:37:55.864000Z"
+    },
+    {
+      "id": "f2731075-259e-45c1-9cf5-6637f35aa703",
+      "description": "Substance Designer for VFX?",
+      "url": "https://realtimevfx.com/t/substance-designer-for-vfx/3939/1",
+      "authors": [],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "procedural",
+        "noise",
+        "fire",
+        "flame"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:05:00Z"
+    },
+    {
+      "id": "52e84f0e-0bf3-4c8a-89f5-acedb2dfc6ec",
+      "description": "Substance Designer Quicktip Bundle V1",
+      "url": "https://flippednormals.com/product/substance-designer-quicktip-bundle-v1-personal-studio-license-11437",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "substance designer",
+        "noise",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T15:02:35.005000Z"
+    },
+    {
+      "id": "37cf948e-7bf1-463c-a55e-325dad54c8e7",
+      "description": "Substance Designer Spiderweb Generator",
+      "url": "https://www.artstation.com/marketplace/p/Y78m/substance-designer-spiderweb-generator",
+      "authors": [
+        "Martin Schmitter"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "spiderweb",
+        "substance designer",
+        "10$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-01-23T11:08:06.147000Z"
+    },
+    {
+      "id": "0c0f2301-1cae-405f-9d19-44770da9448f",
+      "description": "Substance Designer Tools",
+      "url": "https://3dbruno.gumroad.com/?sort=page_layout",
+      "authors": [
+        "Bruno Afonseca"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "substance designer",
+        "caustics",
+        "cracks"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-25T20:07:00Z"
+    },
+    {
+      "id": "ba45eee1-e017-4919-906f-df28773353b6",
+      "description": "Substance Designer vfx",
+      "url": "https://www.artstation.com/artwork/ArrY85",
+      "authors": [
+        "Vincent"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-12-10T13:17:00Z"
+    },
+    {
+      "id": "5e61097d-feeb-4133-825d-62df14ddc108",
+      "description": "Substance Node Pack",
+      "url": "https://www.artstation.com/artwork/yDGWOQ",
+      "authors": [
+        "Daniel Thiger"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "substance designer",
+        "cracks",
+        "stone",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-01-16T12:45:35.517000Z"
+    },
+    {
+      "id": "15d72d48-cc9d-809a-af78-c7f2ca798a90",
+      "description": "Substance Splatter",
+      "url": "https://www.linkedin.com/posts/d1makolpakov_substancedesigner-splatter-ugcPost-7273996698102747137-aaKp",
+      "authors": [
+        "Dmitrii Kolpakov"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "splash",
+        "splatter",
+        "splashes",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-12-15T18:44:33.824000Z"
+    },
+    {
+      "id": "2cba4308-f6f6-4a6a-8c06-de48767a2383",
+      "description": "Surface Tension: Liquid Effects in The Last of Us",
+      "url": "https://www.gdcvault.com/play/1020476/Surface-Tension-Liquid-Effects-in",
+      "authors": [
+        "GDC"
+      ],
+      "types": [
+        "talk"
+      ],
+      "tags": [
+        "procedural",
+        "blood",
+        "liquid",
+        "splash",
+        "splatter"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:05:00Z"
+    },
+    {
+      "id": "170f4b78-4551-4d62-9164-772a2da7460a",
+      "description": "Swirl",
+      "url": "https://youtu.be/1cRMkZNC5sk",
+      "authors": [
+        "Exile"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "swirl"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:06:00Z"
+    },
+    {
+      "id": "af2d3428-e51c-4735-a3b7-ca6954d4f52a",
+      "description": "Talk showing textures of dishonored 2",
+      "url": "https://youtu.be/o7wFPkGmWdI",
+      "authors": [
+        "Mickaelle Ruckert"
+      ],
+      "types": [
+        "talk"
+      ],
+      "tags": [
+        "paint",
+        "photobash",
+        "dirt",
+        "flame",
+        "swirl",
+        "aura",
+        "nova",
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:06:00Z"
+    },
+    {
+      "id": "53ccd247-1b33-444f-b98a-3b237b50943f",
+      "description": "Technical Artist Bootcamp: The VFX of Diablo",
+      "url": "https://youtu.be/YPy2hytwDLM?t=1490",
+      "authors": [
+        "GDC"
+      ],
+      "types": [
+        "talk"
+      ],
+      "tags": [
+        "procedural",
+        "fire",
+        "poison",
+        "flame",
+        "magic"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:06:00Z"
+    },
+    {
+      "id": "03d68262-97ef-4d24-b97f-1bb3fefe69e6",
+      "description": "Texture Drawing Preview",
+      "url": "https://www.youtube.com/watch?v=nE9olfTAT30",
+      "authors": [
+        "이펙트아카데미"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "aura",
+        "nova",
+        "impact",
+        "handpick"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:07:00.001000Z"
+    },
+    {
+      "id": "18b161af-5c59-4373-80df-9ba7b67b9a2e",
+      "description": "Texture Generator Online",
+      "url": "http://cpetry.github.io/TextureGenerator-Online/",
+      "authors": [
+        "Christian Petry"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "free",
+        "noise"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:07:00Z"
+    },
+    {
+      "id": "838920bf-0d23-4901-bd46-d28fcf3bfb03",
+      "description": "Texture Tipps (Gradient Mapping, Filter, Blur)",
+      "url": "https://realtimevfx.com/t/shannon-mcsheehan-lol-fx-knowledge-share/1133/105?u=simonschreibt",
+      "authors": [
+        "Shannon Berke"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "abstract",
+        "shape"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:09:00Z"
+    },
+    {
+      "id": "a7e411eb-f520-432c-ad13-70daefcac833",
+      "description": "Texture Workflow and Procedural Patterns",
+      "url": "https://www.artstation.com/blogs/mahler/332A/34-spellbreak-texture-workflow-and-procedural-patterns",
+      "authors": [
+        "Matias Mahler"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "lightning"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:09:00Z"
+    },
+    {
+      "id": "c26115e1-dacd-4bb9-b211-5ff8f001fef5",
+      "description": "Texture.Ninja",
+      "url": "https://texture.ninja/textures/Blood/11",
+      "authors": [
+        "texture.ninja"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "blood",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:09:00Z"
+    },
+    {
+      "id": "f3788498-1305-4cf2-9b4e-92496fa9ce90",
+      "description": "THE BOOK OF SUBSTANCE DESIGNER - PIXEL PROCESSOR",
+      "url": "https://www.artstation.com/artwork/DvGYAy",
+      "authors": [
+        "Andrei Zelenco"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2024-01-01T13:13:36.068000Z"
+    },
+    {
+      "id": "d811d89a-3317-4081-a292-dd5c86a4c852",
+      "description": "The VFX of Spellsouls",
+      "url": "https://www.youtube.com/watch?v=YZWKdw03Gls&feature=youtu.be",
+      "authors": [
+        "Nikola Damjanov"
+      ],
+      "types": [
+        "talk"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "magic",
+        "poison"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:10:00Z"
+    },
+    {
+      "id": "2b0ed5c8-a8ee-4e26-95e2-1f411109b81f",
+      "description": "Tilable Foam Texture",
+      "url": "https://twitter.com/_staggart_/status/1710265752853360999",
+      "authors": [
+        "Staggart Creations"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photobash",
+        "water",
+        "waterfall",
+        "foam"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-10-06T13:58:29.855000Z"
+    },
+    {
+      "id": "99822861-15b6-42c8-99b5-1ae7bc239a17",
+      "description": "Tileable Clouds from Photo",
+      "url": "https://realtimevfx.com/t/realistic-cloud-texture/19207/2",
+      "authors": [
+        "Bruno Afonseca"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "photobash",
+        "substance designer",
+        "cloud"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-02-09T21:25:00Z"
+    },
+    {
+      "id": "52e57d83-a4df-483c-bc53-975607bef507",
+      "description": "Tiling Blood",
+      "url": "https://youtu.be/PyDLES1zGJs",
+      "authors": [
+        "Ryan Gatts"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "krita",
+        "blood",
+        "liquid"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:10:00Z"
+    },
+    {
+      "id": "12a72d48-cc9d-804e-bd1e-de10d732f13b",
+      "description": "Tiling Painterly Textures Vol. 2",
+      "url": "https://jakebenbow.gumroad.com/l/JB_TilingPainterlyTextures_Vol2",
+      "authors": [
+        "Jake Benbow"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "stylized",
+        "brush",
+        "painterly",
+        "stroke",
+        "cc0"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": true,
+      "handpicked": false,
+      "last_edited_at": "2024-10-25T10:35:01.839000Z"
+    },
+    {
+      "id": "20e72d48-cc9d-8037-b1ef-de7e7f664957",
+      "description": "Tornado Texture",
+      "url": "https://youtu.be/TggCJPd651g?si=7trz6SlXAtZS8D9o",
+      "authors": [
+        "rinban"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "photoshop",
+        "tornado"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-06-10T21:41:00.441000Z"
+    },
+    {
+      "id": "2bdd31b8-0656-469e-87b3-bc2a280c5bc6",
+      "description": "Trail",
+      "url": "https://www.artstation.com/blogs/kanoba/WEbZ/ice-missile-ribbon-tutorial",
+      "authors": [
+        "Jordan Hey"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:12:00Z"
+    },
+    {
+      "id": "aecba269-70e2-4d6d-b3c2-8cfc9f0530ae",
+      "description": "Trail Aura Noise",
+      "url": "https://youtu.be/bsui0GiV0ZU",
+      "authors": [
+        "CGHOW"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "noise",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:13:00Z"
+    },
+    {
+      "id": "fe4ebad5-051b-4dae-8214-f86a70aabf91",
+      "description": "Trail in Flame Painter",
+      "url": "https://youtu.be/fGB-zxRPfwA?t=967",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "Flame Painter",
+        "flame",
+        "fire"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:13:00Z"
+    },
+    {
+      "id": "f8d030de-3250-4c93-8efc-f72273776f8f",
+      "description": "Trail Texture",
+      "url": "https://realtimevfx.com/t/shannon-mcsheehan-lol-fx-knowledge-share/1133/105?u=simonschreibt",
+      "authors": [
+        "Shannon Berke"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "photoshop",
+        "paint",
+        "magic",
+        "abstract",
+        "dust",
+        "smoke"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:13:00Z"
+    },
+    {
+      "id": "5fdd4004-5be0-42b9-a42b-c768b08133a8",
+      "description": "Trail Textures 1/2",
+      "url": "https://www.youtube.com/watch?v=GFs48XUk6c4",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "substance designer",
+        "procedural",
+        "smoke",
+        "dust",
+        "stylized",
+        "abstract",
+        "trail"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:15:00Z"
+    },
+    {
+      "id": "815bb2f9-33f1-4181-963b-d551489aeabd",
+      "description": "Trails in Substance Designer",
+      "url": "https://realtimevfx.com/t/alex-fedorov-sketchbook/6624/6",
+      "authors": [
+        "AlexFedorov"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "substance designer",
+        "magic",
+        "dust",
+        "smoke",
+        "trail"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:15:00Z"
+    },
+    {
+      "id": "0a5f6682-2260-4116-8c47-67bb075bbfb1",
+      "description": "True-Vdb",
+      "url": "https://blendermarket.com/products/true-vdb?ref=247",
+      "authors": [
+        "True-VFX",
+        "JangaFx"
+      ],
+      "types": [
+        "vdb"
+      ],
+      "tags": [
+        "free",
+        "smoke",
+        "dust",
+        "explosion",
+        "fire",
+        "25$"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-12-06T22:58:00Z"
+    },
+    {
+      "id": "177999dc-7361-4cd2-8f5c-e2adba64a4c5",
+      "description": "UE4 Cloud Creation Tutorial",
+      "url": "https://www.artstation.com/marketplace/p/xkDm/ue4-cloud-creation-tutorial",
+      "authors": [
+        "Tyler Smith"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "photobash",
+        "8$",
+        "cloud",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2021-11-25T09:28:00Z"
+    },
+    {
+      "id": "3da9f77c-2a96-4413-8f97-e7de186e7008",
+      "description": "UE4 Material FX Tutorial",
+      "url": "https://youtu.be/da5pNhYtu7c",
+      "authors": [
+        "CGHOW"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "unreal",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:15:00Z"
+    },
+    {
+      "id": "8659553b-dbc5-43b6-b55b-e7264a9ddbd9",
+      "description": "Underwater Brush Set",
+      "url": "https://flippednormals.com/product/underwater-brush-set-5216",
+      "authors": [
+        "Zsolt Kosa"
+      ],
+      "types": [
+        "brushpack"
+      ],
+      "tags": [
+        "6$",
+        "bubble",
+        "water"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-02-23T15:02:46.911000Z"
+    },
+    {
+      "id": "762c0b47-c4b0-4e66-97c7-8f790d827abb",
+      "description": "Unity Flipbooks",
+      "url": "https://blog.unity.com/technology/free-vfx-image-sequences-flipbooks",
+      "authors": [
+        "Unity",
+        "Unity Technologies"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "fire",
+        "explosion",
+        "smoke",
+        "cc0",
+        "handpick",
+        "flipbook"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": true,
+      "handpicked": true,
+      "last_edited_at": "2024-02-23T15:50:46.581000Z"
+    },
+    {
+      "id": "fee3f66a-e214-4183-a323-b9eafd061d7d",
+      "description": "Unity Particle Pack",
+      "url": "https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325",
+      "authors": [
+        "Unity"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "unity",
+        "fire",
+        "handpick",
+        "lightning",
+        "splash",
+        "water",
+        "plasma"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:21:00.001000Z"
+    },
+    {
+      "id": "6d99b2c5-e723-40df-844f-3d1dd53b0160",
+      "description": "Unity Particle Pack 5.x",
+      "url": "https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777",
+      "authors": [
+        "Unity"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "unity",
+        "fire",
+        "flame",
+        "explosion",
+        "smoke",
+        "dust",
+        "sparkles"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:18:00Z"
+    },
+    {
+      "id": "a64a46c4-217f-4ed6-8bbe-308afe811bbb",
+      "description": "Unreal Decal Designer",
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/7e57ce8286ef4bc3b1fd496bb122b2b3",
+      "authors": [
+        "RonanMahonArt"
+      ],
+      "types": [
+        "generator"
+      ],
+      "tags": [
+        "unreal",
+        "splash",
+        "splatter",
+        "liquid",
+        "blood"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:19:00Z"
+    },
+    {
+      "id": "ffe2c3cf-9000-43ca-a9c3-0148f6b9b0b9",
+      "description": "Unsplash",
+      "url": "https://unsplash.com/s/photos/splash",
+      "authors": [
+        "Unsplash"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "photo",
+        "splash",
+        "water",
+        "drops",
+        "foam",
+        "blink",
+        "fire",
+        "flame",
+        "sparkles",
+        "lightning",
+        "cloud",
+        "dust",
+        "handpick"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:21:00.001000Z"
+    },
+    {
+      "id": "d6efbe04-ede6-4ed2-9854-04ec30208fcb",
+      "description": "Using photos as base for VFX textures",
+      "url": "https://www.gdcvault.com/play/1026279/The-Dao-of-VFX",
+      "authors": [
+        "Jeremy Griffith"
+      ],
+      "types": [
+        "talk"
+      ],
+      "tags": [
+        "photobash",
+        "creative",
+        "abstract",
+        "fire",
+        "flame"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:22:00Z"
+    },
+    {
+      "id": "ecf0ca08-2855-49ee-8029-d0370f016877",
+      "description": "Using shapes to cut out fire forms",
+      "url": "https://realtimevfx.com/t/shannon-mcsheehan-lol-fx-knowledge-share/1133/209?u=simonschreibt",
+      "authors": [
+        "Jason Keyser"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "paint",
+        "fire",
+        "flame",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:23:00Z"
+    },
+    {
+      "id": "c828604a-a30f-48ae-a7e4-170b324ad17e",
+      "description": "Value (Artistic Principles of VFX #3)",
+      "url": "https://www.youtube.com/watch?v=3DaBs-7oFhM",
+      "authors": [
+        "Jason Keyser"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "value",
+        "magic"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:23:00Z"
+    },
+    {
+      "id": "aa9183ca-7ee7-40a9-90ef-9f094966ae34",
+      "description": "VAT PAINTSPLAT! // HOUDINI FOR GAMES",
+      "url": "https://www.sidefx.com/tutorials/vat-paintsplat-houdini-for-games/",
+      "authors": [
+        "ANDREAS GLAD",
+        "SideFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "simulate",
+        "mud",
+        "splash",
+        "water",
+        "blood",
+        "houdini"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:23:00Z"
+    },
+    {
+      "id": "271735a4-d8be-479c-b6ab-aba16c8527f1",
+      "description": "Vector System in Flame Painter",
+      "url": "https://realtimevfx.com/t/solve-how-do-you-make-this-texture/4325/14?u=simonschreibt",
+      "authors": [
+        "William Mauritzen"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "Flame Painter",
+        "procedural",
+        "flame",
+        "fire",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:23:00Z"
+    },
+    {
+      "id": "79881bf1-dca0-4231-995c-86541b6ddfb1",
+      "description": "VFX Debug Textures",
+      "url": "https://realtimevfx.com/t/debug-textures-for-vfx/7510/22",
+      "authors": [
+        "Chris"
+      ],
+      "types": [
+        "forumthread"
+      ],
+      "tags": [
+        "free",
+        "photobash",
+        "debug"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:23:00Z"
+    },
+    {
+      "id": "8ec7aeaa-596c-4da3-925d-c3accdacbb2d",
+      "description": "VFX Impacts Texture - Substance Designer Part 1",
+      "url": "https://www.youtube.com/watch?v=JAaO3GRxBjM",
+      "authors": [
+        "1MaFx"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "impact",
+        "stylized"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-10-07T09:04:00Z"
+    },
+    {
+      "id": "c5544c9b-714e-465a-9dad-c297fc52e38f",
+      "description": "VFX Noise Texture Pack - Vol01",
+      "url": "https://wrizfx.gumroad.com/l/potwi",
+      "authors": [
+        "WrizFX"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "noise"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-05-14T22:45:00Z"
+    },
+    {
+      "id": "bf82fe2c-d7d7-429e-9b4e-714ba645ceee",
+      "description": "VFX Packs",
+      "url": "https://photobash.co/packs?category=effects-12",
+      "authors": [
+        "Photobash"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "photobash",
+        "photo",
+        "blood",
+        "fire",
+        "liquid",
+        "flame",
+        "15$",
+        "water",
+        "splash",
+        "dust",
+        "handpick",
+        "lensflare",
+        "sparkles",
+        "cloud"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-05-26T13:50:00.001000Z"
+    },
+    {
+      "id": "b9083efb-4e2d-45a4-816e-569d379a30df",
+      "description": "VFX Patterns Vol 01",
+      "url": "https://cubear.gumroad.com/l/phRev?recommended_by=library",
+      "authors": [
+        "Nikola Damjanov"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "procedural",
+        "1$",
+        "noise",
+        "cracks",
+        "nova",
+        "aura",
+        "abstract"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:25:00Z"
+    },
+    {
+      "id": "4700454c-3a69-4e97-b12a-6d54f1d41f8e",
+      "description": "VFX Reference",
+      "url": "https://codepen.io/OnlyAnderson/full/NmqXKe",
+      "authors": [
+        "Aran Anderson"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "smoke",
+        "dust",
+        "fire",
+        "flame",
+        "lightning",
+        "water",
+        "splash"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:25:00Z"
+    },
+    {
+      "id": "2b872d48-cc9d-8018-9d13-ecf7f9341911",
+      "description": "VFX Texture Creation: The ULTIMATE guide",
+      "url": "https://youtu.be/dMthnzpR-eU",
+      "authors": [
+        "Le Lu"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "paint",
+        "magic",
+        "flame",
+        "lightning",
+        "krita",
+        "photoshop",
+        "procedural"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-11-27T21:53:03.541000Z"
+    },
+    {
+      "id": "38a526ee-cefb-40ad-ae4a-edd30a7e373c",
+      "description": "VFX texture pack for games",
+      "url": "https://www.artstation.com/marketplace/p/pBbBy/vfx-texture-pack-for-games?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace",
+      "authors": [
+        "Hun Young Ha"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "fire",
+        "flame",
+        "noise",
+        "water",
+        "ray",
+        "light",
+        "6$"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2023-12-01T11:25:10.863000Z"
+    },
+    {
+      "id": "3a2ccc86-22a2-41c9-a58a-beb1afe4dba0",
+      "description": "VFX Textures in Paragon Character Packs",
+      "url": "https://www.unrealengine.com/marketplace/en-US/assets?count=20&keywords=paragon&sortBy=relevancy&sortDir=DESC&start=0",
+      "authors": [
+        "Epic"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "unreal",
+        "noise",
+        "impact",
+        "fire",
+        "flame",
+        "debris"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:27:00Z"
+    },
+    {
+      "id": "bfe5e3a6-d981-4ce9-bb46-425215cf696c",
+      "description": "VFX Textures in Unreal Content Examples",
+      "url": "https://www.unrealengine.com/marketplace/en-US/product/content-examples",
+      "authors": [
+        "Epic"
+      ],
+      "types": [
+        "texturepack"
+      ],
+      "tags": [
+        "free",
+        "unreal",
+        "noise",
+        "fire",
+        "sparkles",
+        "splash",
+        "water",
+        "smoke",
+        "cloud",
+        "flame",
+        "caustics"
+      ],
+      "free_tagged": true,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:28:00Z"
+    },
+    {
+      "id": "83c35ac6-2f1c-4686-a91a-3feb9442316d",
+      "description": "Video Footage",
+      "url": "https://www.actionvfx.com/collections/free-vfx/category",
+      "authors": [
+        "ActionVFX"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "video",
+        "water",
+        "fire",
+        "flame",
+        "explosion",
+        "dust",
+        "lightning",
+        "sparkles",
+        "blood",
+        "liquid",
+        "handpick"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:29:00.001000Z"
+    },
+    {
+      "id": "440a489c-e4f6-4063-aba6-6374fe996d36",
+      "description": "Video Footage",
+      "url": "https://www.pond5.com/search?kw=waterfall&media=footage",
+      "authors": [
+        "pond5"
+      ],
+      "types": [
+        "footage"
+      ],
+      "tags": [
+        "water",
+        "waterfall",
+        "fire",
+        "flame",
+        "explosion",
+        "lightning",
+        "cloud",
+        "dust",
+        "smoke",
+        "handpick"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": true,
+      "last_edited_at": "2022-04-01T22:30:00.001000Z"
+    },
+    {
+      "id": "e7634863-db1e-4c5c-8723-cd973e5787bd",
+      "description": "Whispy Smoke",
+      "url": "https://youtu.be/7en8Y0GM55I?t=1276",
+      "authors": [
+        "Zeng Ryan"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "After Effects",
+        "smoke",
+        "abstract",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:31:00Z"
+    },
+    {
+      "id": "24772d48-cc9d-8067-9837-eb25cacd48a3",
+      "description": "Whispy Tex with Path Blur",
+      "url": "https://www.linkedin.com/posts/beyondfx_photoshoptips-pathblur-digitalart-ugcPost-7358572355155079170-tM6C",
+      "authors": [
+        "Beyond-FX"
+      ],
+      "types": [
+        "tutorial"
+      ],
+      "tags": [
+        "procedural",
+        "photoshop",
+        "swirl",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2025-08-06T11:26:11.860000Z"
+    },
+    {
+      "id": "60c336c9-9bc2-41d3-bb47-ea54cbbabda4",
+      "description": "Whispy Trail with Unreal Render Target",
+      "url": "https://realtimevfx.com/t/solve-how-do-you-make-this-texture/4325/35?u=simonschreibt",
+      "authors": [
+        "imbueFX"
+      ],
+      "types": [
+        "tutorial",
+        "forumthread"
+      ],
+      "tags": [
+        "procedural",
+        "unreal",
+        "smoke",
+        "dust",
+        "magic"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:31:00Z"
+    },
+    {
+      "id": "49b0c00d-bdc2-4320-82f8-8c343d700c59",
+      "description": "Whispy with Krita",
+      "url": "https://realtimevfx.com/t/solve-how-do-you-make-this-texture/4325/5?u=simonschreibt",
+      "authors": [],
+      "types": [
+        "generator",
+        "forumthread"
+      ],
+      "tags": [
+        "krita",
+        "paint",
+        "smoke",
+        "dust"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:31:00Z"
+    },
+    {
+      "id": "65a50a4e-9a85-449e-a001-31b2ac240fcf",
+      "description": "Worldmachine for Noise Textures",
+      "url": "https://realtimevfx.com/t/make-noise-textures-with-world-machine/12451",
+      "authors": [
+        "jqarlsson"
+      ],
+      "types": [
+        "generator",
+        "forumthread",
+        "tutorial"
+      ],
+      "tags": [
+        "noise",
+        "worldmachine",
+        "procedural"
+      ],
+      "free_tagged": false,
+      "cc0_tagged": false,
+      "handpicked": false,
+      "last_edited_at": "2022-04-01T22:31:00Z"
+    }
+  ]
+}

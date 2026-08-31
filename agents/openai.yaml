@@ -1,0 +1,4 @@
+interface:
+  display_name: "Textures for VFX"
+  short_description: "Find and prepare VFX texture resources"
+  default_prompt: "Use $textures-for-vfx to find or create the right assets for this VFX effect."
